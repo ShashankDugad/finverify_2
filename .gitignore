@@ -1,3 +1,13 @@
 data/raw/
 *.zip
 nohup.out
+# Large data files
+data/raw/
+data/processed/embeddings.npy
+data/processed/chunks/
+data/indexes/
+*.pkl
+*.bin
+__pycache__/
+*.pyc
+nohup.out
