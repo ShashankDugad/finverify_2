@@ -1,0 +1,97 @@
+[
+  {
+    "query": "What was Apple's iPhone revenue in Q4 2023?",
+    "answer": "$43.8 billion",
+    "citations": [
+      {
+        "source": "Apple 2023 Q4",
+        "score": 7.414851665496826
+      },
+      {
+        "source": "Apple 2024 Q2",
+        "score": 6.2002763748168945
+      },
+      {
+        "source": "Apple 2022 Q4",
+        "score": 5.848064422607422
+      }
+    ],
+    "num_sources": 3
+  },
+  {
+    "query": "How much did NVIDIA's data center revenue grow?",
+    "answer": "427% YoY",
+    "citations": [
+      {
+        "source": "Nvidia 2025 Q1",
+        "score": 8.463848114013672
+      },
+      {
+        "source": "Nvidia 2025 Q2",
+        "score": 8.27087116241455
+      },
+      {
+        "source": "Nvidia 2024 Q3",
+        "score": 7.04313325881958
+      }
+    ],
+    "num_sources": 3
+  },
+  {
+    "query": "What is Microsoft Azure's revenue growth rate?",
+    "answer": "30% to 31%",
+    "citations": [
+      {
+        "source": "Microsoft 2020 Q4",
+        "score": 7.829229354858398
+      },
+      {
+        "source": "Microsoft 2024 Q3",
+        "score": 7.759147644042969
+      },
+      {
+        "source": "Microsoft 2024 Q1",
+        "score": 6.723332405090332
+      }
+    ],
+    "num_sources": 3
+  },
+  {
+    "query": "What was Amazon's AWS operating margin?",
+    "answer": "29.6%",
+    "citations": [
+      {
+        "source": "Amazon 2023 Q4",
+        "score": 4.694287300109863
+      },
+      {
+        "source": "Amazon 2024 Q1",
+        "score": 4.609617233276367
+      },
+      {
+        "source": "Amazon 2024 Q2",
+        "score": 3.726771593093872
+      }
+    ],
+    "num_sources": 3
+  },
+  {
+    "query": "How did Walmart's e-commerce sales perform?",
+    "answer": "24% climb",
+    "citations": [
+      {
+        "source": "Walmart 2024 Q3",
+        "score": 4.1823015213012695
+      },
+      {
+        "source": "Walmart 2022 Q4",
+        "score": 2.838473081588745
+      },
+      {
+        "source": "Walmart 2023 Q3",
+        "score": 2.782700538635254
+      }
+    ],
+    "num_sources": 3
+  }
+]
