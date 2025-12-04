@@ -1,0 +1,1132 @@
+company,ticker,year,quarter,filename,filepath
+AMD,AMD,2017,4,2017_Q4_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2017_Q4_amd_processed.txt
+AMD,AMD,2018,1,2018_Q1_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2018_Q1_amd_processed.txt
+AMD,AMD,2018,2,2018_Q2_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2018_Q2_amd_processed.txt
+AMD,AMD,2018,3,2018_Q3_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2018_Q3_amd_processed.txt
+AMD,AMD,2018,4,2018_Q4_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2018_Q4_amd_processed.txt
+AMD,AMD,2019,1,2019_Q1_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2019_Q1_amd_processed.txt
+AMD,AMD,2019,2,2019_Q2_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2019_Q2_amd_processed.txt
+AMD,AMD,2019,3,2019_Q3_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2019_Q3_amd_processed.txt
+AMD,AMD,2019,4,2019_Q4_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2019_Q4_amd_processed.txt
+AMD,AMD,2020,1,2020_Q1_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2020_Q1_amd_processed.txt
+AMD,AMD,2020,2,2020_Q2_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2020_Q2_amd_processed.txt
+AMD,AMD,2020,3,2020_Q3_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2020_Q3_amd_processed.txt
+AMD,AMD,2020,4,2020_Q4_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2020_Q4_amd_processed.txt
+AMD,AMD,2021,1,2021_Q1_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2021_Q1_amd_processed.txt
+AMD,AMD,2021,2,2021_Q2_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2021_Q2_amd_processed.txt
+AMD,AMD,2021,3,2021_Q3_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2021_Q3_amd_processed.txt
+AMD,AMD,2021,4,2021_Q4_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2021_Q4_amd_processed.txt
+AMD,AMD,2022,1,2022_Q1_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2022_Q1_amd_processed.txt
+AMD,AMD,2022,2,2022_Q2_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2022_Q2_amd_processed.txt
+AMD,AMD,2022,3,2022_Q3_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2022_Q3_amd_processed.txt
+AMD,AMD,2022,4,2022_Q4_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2022_Q4_amd_processed.txt
+AMD,AMD,2023,1,2023_Q1_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2023_Q1_amd_processed.txt
+AMD,AMD,2023,2,2023_Q2_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2023_Q2_amd_processed.txt
+AMD,AMD,2023,3,2023_Q3_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2023_Q3_amd_processed.txt
+AMD,AMD,2023,4,2023_Q4_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2023_Q4_amd_processed.txt
+AMD,AMD,2024,1,2024_Q1_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2024_Q1_amd_processed.txt
+AMD,AMD,2024,2,2024_Q2_amd_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AMD/2024_Q2_amd_processed.txt
+AXP,AXP,2017,4,2017_Q4_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2017_Q4_axp_processed.txt
+AXP,AXP,2018,1,2018_Q1_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2018_Q1_axp_processed.txt
+AXP,AXP,2018,2,2018_Q2_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2018_Q2_axp_processed.txt
+AXP,AXP,2018,3,2018_Q3_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2018_Q3_axp_processed.txt
+AXP,AXP,2018,4,2018_Q4_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2018_Q4_axp_processed.txt
+AXP,AXP,2019,1,2019_Q1_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2019_Q1_axp_processed.txt
+AXP,AXP,2019,2,2019_Q2_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2019_Q2_axp_processed.txt
+AXP,AXP,2019,3,2019_Q3_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2019_Q3_axp_processed.txt
+AXP,AXP,2019,4,2019_Q4_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2019_Q4_axp_processed.txt
+AXP,AXP,2020,1,2020_Q1_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2020_Q1_axp_processed.txt
+AXP,AXP,2020,2,2020_Q2_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2020_Q2_axp_processed.txt
+AXP,AXP,2020,3,2020_Q3_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2020_Q3_axp_processed.txt
+AXP,AXP,2020,4,2020_Q4_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2020_Q4_axp_processed.txt
+AXP,AXP,2021,1,2021_Q1_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2021_Q1_axp_processed.txt
+AXP,AXP,2021,2,2021_Q2_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2021_Q2_axp_processed.txt
+AXP,AXP,2021,3,2021_Q3_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2021_Q3_axp_processed.txt
+AXP,AXP,2021,4,2021_Q4_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2021_Q4_axp_processed.txt
+AXP,AXP,2022,1,2022_Q1_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2022_Q1_axp_processed.txt
+AXP,AXP,2022,2,2022_Q2_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2022_Q2_axp_processed.txt
+AXP,AXP,2022,3,2022_Q3_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2022_Q3_axp_processed.txt
+AXP,AXP,2022,4,2022_Q4_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2022_Q4_axp_processed.txt
+AXP,AXP,2023,1,2023_Q1_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2023_Q1_axp_processed.txt
+AXP,AXP,2023,2,2023_Q2_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2023_Q2_axp_processed.txt
+AXP,AXP,2023,3,2023_Q3_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2023_Q3_axp_processed.txt
+AXP,AXP,2023,4,2023_Q4_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2023_Q4_axp_processed.txt
+AXP,AXP,2024,1,2024_Q1_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2024_Q1_axp_processed.txt
+AXP,AXP,2024,2,2024_Q2_axp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/AXP/2024_Q2_axp_processed.txt
+Accenture,ACN,2018,1,2018_Q1_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2018_Q1_acn_processed.txt
+Accenture,ACN,2018,2,2018_Q2_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2018_Q2_acn_processed.txt
+Accenture,ACN,2018,3,2018_Q3_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2018_Q3_acn_processed.txt
+Accenture,ACN,2018,4,2018_Q4_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2018_Q4_acn_processed.txt
+Accenture,ACN,2019,1,2019_Q1_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2019_Q1_acn_processed.txt
+Accenture,ACN,2019,2,2019_Q2_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2019_Q2_acn_processed.txt
+Accenture,ACN,2019,3,2019_Q3_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2019_Q3_acn_processed.txt
+Accenture,ACN,2019,4,2019_Q4_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2019_Q4_acn_processed.txt
+Accenture,ACN,2020,1,2020_Q1_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2020_Q1_acn_processed.txt
+Accenture,ACN,2020,2,2020_Q2_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2020_Q2_acn_processed.txt
+Accenture,ACN,2020,3,2020_Q3_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2020_Q3_acn_processed.txt
+Accenture,ACN,2020,4,2020_Q4_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2020_Q4_acn_processed.txt
+Accenture,ACN,2021,1,2021_Q1_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2021_Q1_acn_processed.txt
+Accenture,ACN,2021,2,2021_Q2_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2021_Q2_acn_processed.txt
+Accenture,ACN,2021,3,2021_Q3_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2021_Q3_acn_processed.txt
+Accenture,ACN,2021,4,2021_Q4_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2021_Q4_acn_processed.txt
+Accenture,ACN,2022,1,2022_Q1_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2022_Q1_acn_processed.txt
+Accenture,ACN,2022,2,2022_Q2_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2022_Q2_acn_processed.txt
+Accenture,ACN,2022,3,2022_Q3_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2022_Q3_acn_processed.txt
+Accenture,ACN,2022,4,2022_Q4_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2022_Q4_acn_processed.txt
+Accenture,ACN,2023,1,2023_Q1_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2023_Q1_acn_processed.txt
+Accenture,ACN,2023,2,2023_Q2_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2023_Q2_acn_processed.txt
+Accenture,ACN,2023,3,2023_Q3_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2023_Q3_acn_processed.txt
+Accenture,ACN,2023,4,2023_Q4_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2023_Q4_acn_processed.txt
+Accenture,ACN,2024,1,2024_Q1_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2024_Q1_acn_processed.txt
+Accenture,ACN,2024,2,2024_Q2_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2024_Q2_acn_processed.txt
+Accenture,ACN,2024,3,2024_Q3_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2024_Q3_acn_processed.txt
+Accenture,ACN,2024,4,2024_Q4_acn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Accenture/2024_Q4_acn_processed.txt
+Adobe,ADBE,2018,1,2018_Q1_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2018_Q1_adbe_processed.txt
+Adobe,ADBE,2018,2,2018_Q2_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2018_Q2_adbe_processed.txt
+Adobe,ADBE,2018,3,2018_Q3_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2018_Q3_adbe_processed.txt
+Adobe,ADBE,2018,4,2018_Q4_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2018_Q4_adbe_processed.txt
+Adobe,ADBE,2019,1,2019_Q1_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2019_Q1_adbe_processed.txt
+Adobe,ADBE,2019,2,2019_Q2_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2019_Q2_adbe_processed.txt
+Adobe,ADBE,2019,3,2019_Q3_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2019_Q3_adbe_processed.txt
+Adobe,ADBE,2019,4,2019_Q4_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2019_Q4_adbe_processed.txt
+Adobe,ADBE,2020,1,2020_Q1_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2020_Q1_adbe_processed.txt
+Adobe,ADBE,2020,2,2020_Q2_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2020_Q2_adbe_processed.txt
+Adobe,ADBE,2020,3,2020_Q3_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2020_Q3_adbe_processed.txt
+Adobe,ADBE,2020,4,2020_Q4_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2020_Q4_adbe_processed.txt
+Adobe,ADBE,2021,1,2021_Q1_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2021_Q1_adbe_processed.txt
+Adobe,ADBE,2021,2,2021_Q2_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2021_Q2_adbe_processed.txt
+Adobe,ADBE,2021,3,2021_Q3_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2021_Q3_adbe_processed.txt
+Adobe,ADBE,2021,4,2021_Q4_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2021_Q4_adbe_processed.txt
+Adobe,ADBE,2022,1,2022_Q1_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2022_Q1_adbe_processed.txt
+Adobe,ADBE,2022,2,2022_Q2_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2022_Q2_adbe_processed.txt
+Adobe,ADBE,2022,3,2022_Q3_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2022_Q3_adbe_processed.txt
+Adobe,ADBE,2022,4,2022_Q4_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2022_Q4_adbe_processed.txt
+Adobe,ADBE,2023,1,2023_Q1_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2023_Q1_adbe_processed.txt
+Adobe,ADBE,2023,2,2023_Q2_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2023_Q2_adbe_processed.txt
+Adobe,ADBE,2023,3,2023_Q3_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2023_Q3_adbe_processed.txt
+Adobe,ADBE,2023,4,2023_Q4_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2023_Q4_adbe_processed.txt
+Adobe,ADBE,2024,1,2024_Q1_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2024_Q1_adbe_processed.txt
+Adobe,ADBE,2024,2,2024_Q2_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2024_Q2_adbe_processed.txt
+Adobe,ADBE,2024,3,2024_Q3_adbe_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Adobe/2024_Q3_adbe_processed.txt
+Airbus,AIR,2018,1,2018_Q1_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2018_Q1_air_processed.txt
+Airbus,AIR,2019,1,2019_Q1_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2019_Q1_air_processed.txt
+Airbus,AIR,2020,1,2020_Q1_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2020_Q1_air_processed.txt
+Airbus,AIR,2021,1,2021_Q1_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2021_Q1_air_processed.txt
+Airbus,AIR,2022,1,2022_Q1_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2022_Q1_air_processed.txt
+Airbus,AIR,2022,4,2022_Q4_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2022_Q4_air_processed.txt
+Airbus,AIR,2023,1,2023_Q1_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2023_Q1_air_processed.txt
+Airbus,AIR,2023,2,2023_Q2_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2023_Q2_air_processed.txt
+Airbus,AIR,2024,1,2024_Q1_air_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Airbus/2024_Q1_air_processed.txt
+Allstate,ALL,2017,4,2017_Q4_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2017_Q4_all_processed.txt
+Allstate,ALL,2018,1,2018_Q1_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2018_Q1_all_processed.txt
+Allstate,ALL,2018,2,2018_Q2_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2018_Q2_all_processed.txt
+Allstate,ALL,2018,3,2018_Q3_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2018_Q3_all_processed.txt
+Allstate,ALL,2018,4,2018_Q4_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2018_Q4_all_processed.txt
+Allstate,ALL,2019,1,2019_Q1_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2019_Q1_all_processed.txt
+Allstate,ALL,2019,2,2019_Q2_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2019_Q2_all_processed.txt
+Allstate,ALL,2019,3,2019_Q3_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2019_Q3_all_processed.txt
+Allstate,ALL,2019,4,2019_Q4_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2019_Q4_all_processed.txt
+Allstate,ALL,2020,1,2020_Q1_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2020_Q1_all_processed.txt
+Allstate,ALL,2020,2,2020_Q2_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2020_Q2_all_processed.txt
+Allstate,ALL,2020,3,2020_Q3_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2020_Q3_all_processed.txt
+Allstate,ALL,2020,4,2020_Q4_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2020_Q4_all_processed.txt
+Allstate,ALL,2021,1,2021_Q1_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2021_Q1_all_processed.txt
+Allstate,ALL,2021,2,2021_Q2_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2021_Q2_all_processed.txt
+Allstate,ALL,2021,3,2021_Q3_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2021_Q3_all_processed.txt
+Allstate,ALL,2021,4,2021_Q4_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2021_Q4_all_processed.txt
+Allstate,ALL,2022,1,2022_Q1_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2022_Q1_all_processed.txt
+Allstate,ALL,2022,2,2022_Q2_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2022_Q2_all_processed.txt
+Allstate,ALL,2022,3,2022_Q3_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2022_Q3_all_processed.txt
+Allstate,ALL,2022,4,2022_Q4_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2022_Q4_all_processed.txt
+Allstate,ALL,2023,1,2023_Q1_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2023_Q1_all_processed.txt
+Allstate,ALL,2023,2,2023_Q2_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2023_Q2_all_processed.txt
+Allstate,ALL,2023,3,2023_Q3_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2023_Q3_all_processed.txt
+Allstate,ALL,2023,4,2023_Q4_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2023_Q4_all_processed.txt
+Allstate,ALL,2024,1,2024_Q1_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2024_Q1_all_processed.txt
+Allstate,ALL,2024,2,2024_Q2_all_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Allstate/2024_Q2_all_processed.txt
+Alphabet,GOOGL,2017,4,2017_Q4_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2017_Q4_googl_processed.txt
+Alphabet,GOOGL,2018,1,2018_Q1_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2018_Q1_googl_processed.txt
+Alphabet,GOOGL,2018,2,2018_Q2_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2018_Q2_googl_processed.txt
+Alphabet,GOOGL,2018,3,2018_Q3_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2018_Q3_googl_processed.txt
+Alphabet,GOOGL,2018,4,2018_Q4_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2018_Q4_googl_processed.txt
+Alphabet,GOOGL,2019,1,2019_Q1_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2019_Q1_googl_processed.txt
+Alphabet,GOOGL,2019,2,2019_Q2_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2019_Q2_googl_processed.txt
+Alphabet,GOOGL,2019,3,2019_Q3_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2019_Q3_googl_processed.txt
+Alphabet,GOOGL,2019,4,2019_Q4_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2019_Q4_googl_processed.txt
+Alphabet,GOOGL,2020,1,2020_Q1_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2020_Q1_googl_processed.txt
+Alphabet,GOOGL,2020,2,2020_Q2_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2020_Q2_googl_processed.txt
+Alphabet,GOOGL,2020,3,2020_Q3_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2020_Q3_googl_processed.txt
+Alphabet,GOOGL,2020,4,2020_Q4_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2020_Q4_googl_processed.txt
+Alphabet,GOOGL,2021,1,2021_Q1_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2021_Q1_googl_processed.txt
+Alphabet,GOOGL,2021,2,2021_Q2_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2021_Q2_googl_processed.txt
+Alphabet,GOOGL,2021,3,2021_Q3_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2021_Q3_googl_processed.txt
+Alphabet,GOOGL,2021,4,2021_Q4_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2021_Q4_googl_processed.txt
+Alphabet,GOOGL,2022,1,2022_Q1_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2022_Q1_googl_processed.txt
+Alphabet,GOOGL,2022,2,2022_Q2_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2022_Q2_googl_processed.txt
+Alphabet,GOOGL,2022,3,2022_Q3_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2022_Q3_googl_processed.txt
+Alphabet,GOOGL,2022,4,2022_Q4_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2022_Q4_googl_processed.txt
+Alphabet,GOOGL,2023,1,2023_Q1_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2023_Q1_googl_processed.txt
+Alphabet,GOOGL,2023,2,2023_Q2_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2023_Q2_googl_processed.txt
+Alphabet,GOOGL,2023,3,2023_Q3_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2023_Q3_googl_processed.txt
+Alphabet,GOOGL,2023,4,2023_Q4_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2023_Q4_googl_processed.txt
+Alphabet,GOOGL,2024,1,2024_Q1_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2024_Q1_googl_processed.txt
+Alphabet,GOOGL,2024,2,2024_Q2_googl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Alphabet/2024_Q2_googl_processed.txt
+Amadeus,AMS,2018,1,2018_Q1_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2018_Q1_ams_processed.txt
+Amadeus,AMS,2018,3,2018_Q3_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2018_Q3_ams_processed.txt
+Amadeus,AMS,2018,4,2018_Q4_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2018_Q4_ams_processed.txt
+Amadeus,AMS,2019,1,2019_Q1_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2019_Q1_ams_processed.txt
+Amadeus,AMS,2019,3,2019_Q3_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2019_Q3_ams_processed.txt
+Amadeus,AMS,2019,4,2019_Q4_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2019_Q4_ams_processed.txt
+Amadeus,AMS,2020,1,2020_Q1_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2020_Q1_ams_processed.txt
+Amadeus,AMS,2020,3,2020_Q3_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2020_Q3_ams_processed.txt
+Amadeus,AMS,2021,1,2021_Q1_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2021_Q1_ams_processed.txt
+Amadeus,AMS,2021,2,2021_Q2_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2021_Q2_ams_processed.txt
+Amadeus,AMS,2021,3,2021_Q3_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2021_Q3_ams_processed.txt
+Amadeus,AMS,2022,1,2022_Q1_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2022_Q1_ams_processed.txt
+Amadeus,AMS,2022,2,2022_Q2_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2022_Q2_ams_processed.txt
+Amadeus,AMS,2022,3,2022_Q3_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2022_Q3_ams_processed.txt
+Amadeus,AMS,2022,4,2022_Q4_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2022_Q4_ams_processed.txt
+Amadeus,AMS,2023,1,2023_Q1_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2023_Q1_ams_processed.txt
+Amadeus,AMS,2023,2,2023_Q2_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2023_Q2_ams_processed.txt
+Amadeus,AMS,2023,3,2023_Q3_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2023_Q3_ams_processed.txt
+Amadeus,AMS,2023,4,2023_Q4_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2023_Q4_ams_processed.txt
+Amadeus,AMS,2024,1,2024_Q1_ams_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amadeus/2024_Q1_ams_processed.txt
+Amazon,AMZN,2017,4,2017_Q4_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2017_Q4_amzn_processed.txt
+Amazon,AMZN,2018,1,2018_Q1_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2018_Q1_amzn_processed.txt
+Amazon,AMZN,2018,2,2018_Q2_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2018_Q2_amzn_processed.txt
+Amazon,AMZN,2018,3,2018_Q3_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2018_Q3_amzn_processed.txt
+Amazon,AMZN,2018,4,2018_Q4_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2018_Q4_amzn_processed.txt
+Amazon,AMZN,2019,1,2019_Q1_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2019_Q1_amzn_processed.txt
+Amazon,AMZN,2019,2,2019_Q2_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2019_Q2_amzn_processed.txt
+Amazon,AMZN,2019,3,2019_Q3_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2019_Q3_amzn_processed.txt
+Amazon,AMZN,2019,4,2019_Q4_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2019_Q4_amzn_processed.txt
+Amazon,AMZN,2020,1,2020_Q1_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2020_Q1_amzn_processed.txt
+Amazon,AMZN,2020,2,2020_Q2_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2020_Q2_amzn_processed.txt
+Amazon,AMZN,2020,3,2020_Q3_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2020_Q3_amzn_processed.txt
+Amazon,AMZN,2020,4,2020_Q4_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2020_Q4_amzn_processed.txt
+Amazon,AMZN,2021,1,2021_Q1_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2021_Q1_amzn_processed.txt
+Amazon,AMZN,2021,2,2021_Q2_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2021_Q2_amzn_processed.txt
+Amazon,AMZN,2021,3,2021_Q3_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2021_Q3_amzn_processed.txt
+Amazon,AMZN,2021,4,2021_Q4_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2021_Q4_amzn_processed.txt
+Amazon,AMZN,2022,1,2022_Q1_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2022_Q1_amzn_processed.txt
+Amazon,AMZN,2022,2,2022_Q2_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2022_Q2_amzn_processed.txt
+Amazon,AMZN,2022,3,2022_Q3_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2022_Q3_amzn_processed.txt
+Amazon,AMZN,2022,4,2022_Q4_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2022_Q4_amzn_processed.txt
+Amazon,AMZN,2023,1,2023_Q1_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2023_Q1_amzn_processed.txt
+Amazon,AMZN,2023,2,2023_Q2_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2023_Q2_amzn_processed.txt
+Amazon,AMZN,2023,3,2023_Q3_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2023_Q3_amzn_processed.txt
+Amazon,AMZN,2023,4,2023_Q4_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2023_Q4_amzn_processed.txt
+Amazon,AMZN,2024,1,2024_Q1_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2024_Q1_amzn_processed.txt
+Amazon,AMZN,2024,2,2024_Q2_amzn_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Amazon/2024_Q2_amzn_processed.txt
+Apple,AAPL,2018,1,2018_Q1_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2018_Q1_aapl_processed.txt
+Apple,AAPL,2018,2,2018_Q2_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2018_Q2_aapl_processed.txt
+Apple,AAPL,2018,3,2018_Q3_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2018_Q3_aapl_processed.txt
+Apple,AAPL,2018,4,2018_Q4_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2018_Q4_aapl_processed.txt
+Apple,AAPL,2019,1,2019_Q1_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2019_Q1_aapl_processed.txt
+Apple,AAPL,2019,2,2019_Q2_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2019_Q2_aapl_processed.txt
+Apple,AAPL,2019,3,2019_Q3_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2019_Q3_aapl_processed.txt
+Apple,AAPL,2019,4,2019_Q4_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2019_Q4_aapl_processed.txt
+Apple,AAPL,2020,1,2020_Q1_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2020_Q1_aapl_processed.txt
+Apple,AAPL,2020,2,2020_Q2_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2020_Q2_aapl_processed.txt
+Apple,AAPL,2020,3,2020_Q3_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2020_Q3_aapl_processed.txt
+Apple,AAPL,2020,4,2020_Q4_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2020_Q4_aapl_processed.txt
+Apple,AAPL,2021,1,2021_Q1_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2021_Q1_aapl_processed.txt
+Apple,AAPL,2021,2,2021_Q2_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2021_Q2_aapl_processed.txt
+Apple,AAPL,2021,3,2021_Q3_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2021_Q3_aapl_processed.txt
+Apple,AAPL,2021,4,2021_Q4_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2021_Q4_aapl_processed.txt
+Apple,AAPL,2022,1,2022_Q1_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2022_Q1_aapl_processed.txt
+Apple,AAPL,2022,2,2022_Q2_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2022_Q2_aapl_processed.txt
+Apple,AAPL,2022,3,2022_Q3_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2022_Q3_aapl_processed.txt
+Apple,AAPL,2022,4,2022_Q4_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2022_Q4_aapl_processed.txt
+Apple,AAPL,2023,1,2023_Q1_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2023_Q1_aapl_processed.txt
+Apple,AAPL,2023,2,2023_Q2_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2023_Q2_aapl_processed.txt
+Apple,AAPL,2023,3,2023_Q3_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2023_Q3_aapl_processed.txt
+Apple,AAPL,2023,4,2023_Q4_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2023_Q4_aapl_processed.txt
+Apple,AAPL,2024,1,2024_Q1_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2024_Q1_aapl_processed.txt
+Apple,AAPL,2024,2,2024_Q2_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2024_Q2_aapl_processed.txt
+Apple,AAPL,2024,3,2024_Q3_aapl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Apple/2024_Q3_aapl_processed.txt
+BAM,BAM,2017,4,2017_Q4_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2017_Q4_bam_processed.txt
+BAM,BAM,2018,1,2018_Q1_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2018_Q1_bam_processed.txt
+BAM,BAM,2018,2,2018_Q2_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2018_Q2_bam_processed.txt
+BAM,BAM,2018,3,2018_Q3_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2018_Q3_bam_processed.txt
+BAM,BAM,2018,4,2018_Q4_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2018_Q4_bam_processed.txt
+BAM,BAM,2019,1,2019_Q1_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2019_Q1_bam_processed.txt
+BAM,BAM,2019,2,2019_Q2_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2019_Q2_bam_processed.txt
+BAM,BAM,2019,3,2019_Q3_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2019_Q3_bam_processed.txt
+BAM,BAM,2019,4,2019_Q4_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2019_Q4_bam_processed.txt
+BAM,BAM,2020,1,2020_Q1_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2020_Q1_bam_processed.txt
+BAM,BAM,2020,2,2020_Q2_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2020_Q2_bam_processed.txt
+BAM,BAM,2020,3,2020_Q3_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2020_Q3_bam_processed.txt
+BAM,BAM,2020,4,2020_Q4_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2020_Q4_bam_processed.txt
+BAM,BAM,2021,1,2021_Q1_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2021_Q1_bam_processed.txt
+BAM,BAM,2021,2,2021_Q2_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2021_Q2_bam_processed.txt
+BAM,BAM,2021,3,2021_Q3_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2021_Q3_bam_processed.txt
+BAM,BAM,2021,4,2021_Q4_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2021_Q4_bam_processed.txt
+BAM,BAM,2022,1,2022_Q1_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2022_Q1_bam_processed.txt
+BAM,BAM,2022,2,2022_Q2_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2022_Q2_bam_processed.txt
+BAM,BAM,2022,3,2022_Q3_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2022_Q3_bam_processed.txt
+BAM,BAM,2022,4,2022_Q4_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2022_Q4_bam_processed.txt
+BAM,BAM,2023,1,2023_Q1_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2023_Q1_bam_processed.txt
+BAM,BAM,2023,2,2023_Q2_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2023_Q2_bam_processed.txt
+BAM,BAM,2023,3,2023_Q3_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2023_Q3_bam_processed.txt
+BAM,BAM,2023,4,2023_Q4_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2023_Q4_bam_processed.txt
+BAM,BAM,2024,1,2024_Q1_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2024_Q1_bam_processed.txt
+BAM,BAM,2024,2,2024_Q2_bam_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BAM/2024_Q2_bam_processed.txt
+BBVA,BBVA,2017,4,2017_Q4_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2017_Q4_bbva_processed.txt
+BBVA,BBVA,2018,1,2018_Q1_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2018_Q1_bbva_processed.txt
+BBVA,BBVA,2018,2,2018_Q2_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2018_Q2_bbva_processed.txt
+BBVA,BBVA,2018,3,2018_Q3_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2018_Q3_bbva_processed.txt
+BBVA,BBVA,2018,4,2018_Q4_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2018_Q4_bbva_processed.txt
+BBVA,BBVA,2019,1,2019_Q1_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2019_Q1_bbva_processed.txt
+BBVA,BBVA,2019,2,2019_Q2_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2019_Q2_bbva_processed.txt
+BBVA,BBVA,2019,3,2019_Q3_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2019_Q3_bbva_processed.txt
+BBVA,BBVA,2019,4,2019_Q4_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2019_Q4_bbva_processed.txt
+BBVA,BBVA,2020,1,2020_Q1_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2020_Q1_bbva_processed.txt
+BBVA,BBVA,2020,2,2020_Q2_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2020_Q2_bbva_processed.txt
+BBVA,BBVA,2020,3,2020_Q3_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2020_Q3_bbva_processed.txt
+BBVA,BBVA,2020,4,2020_Q4_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2020_Q4_bbva_processed.txt
+BBVA,BBVA,2021,1,2021_Q1_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2021_Q1_bbva_processed.txt
+BBVA,BBVA,2021,2,2021_Q2_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2021_Q2_bbva_processed.txt
+BBVA,BBVA,2021,3,2021_Q3_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2021_Q3_bbva_processed.txt
+BBVA,BBVA,2022,1,2022_Q1_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2022_Q1_bbva_processed.txt
+BBVA,BBVA,2022,2,2022_Q2_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2022_Q2_bbva_processed.txt
+BBVA,BBVA,2022,3,2022_Q3_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2022_Q3_bbva_processed.txt
+BBVA,BBVA,2022,4,2022_Q4_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2022_Q4_bbva_processed.txt
+BBVA,BBVA,2023,1,2023_Q1_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2023_Q1_bbva_processed.txt
+BBVA,BBVA,2023,2,2023_Q2_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2023_Q2_bbva_processed.txt
+BBVA,BBVA,2023,3,2023_Q3_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2023_Q3_bbva_processed.txt
+BBVA,BBVA,2023,4,2023_Q4_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2023_Q4_bbva_processed.txt
+BBVA,BBVA,2024,1,2024_Q1_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2024_Q1_bbva_processed.txt
+BBVA,BBVA,2024,2,2024_Q2_bbva_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BBVA/2024_Q2_bbva_processed.txt
+BKNG,BKNG,2017,4,2017_Q4_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2017_Q4_bkng_processed.txt
+BKNG,BKNG,2018,1,2018_Q1_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2018_Q1_bkng_processed.txt
+BKNG,BKNG,2018,2,2018_Q2_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2018_Q2_bkng_processed.txt
+BKNG,BKNG,2018,3,2018_Q3_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2018_Q3_bkng_processed.txt
+BKNG,BKNG,2018,4,2018_Q4_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2018_Q4_bkng_processed.txt
+BKNG,BKNG,2019,1,2019_Q1_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2019_Q1_bkng_processed.txt
+BKNG,BKNG,2019,2,2019_Q2_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2019_Q2_bkng_processed.txt
+BKNG,BKNG,2019,3,2019_Q3_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2019_Q3_bkng_processed.txt
+BKNG,BKNG,2019,4,2019_Q4_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2019_Q4_bkng_processed.txt
+BKNG,BKNG,2020,1,2020_Q1_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2020_Q1_bkng_processed.txt
+BKNG,BKNG,2020,2,2020_Q2_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2020_Q2_bkng_processed.txt
+BKNG,BKNG,2020,3,2020_Q3_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2020_Q3_bkng_processed.txt
+BKNG,BKNG,2020,4,2020_Q4_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2020_Q4_bkng_processed.txt
+BKNG,BKNG,2021,1,2021_Q1_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2021_Q1_bkng_processed.txt
+BKNG,BKNG,2021,2,2021_Q2_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2021_Q2_bkng_processed.txt
+BKNG,BKNG,2021,3,2021_Q3_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2021_Q3_bkng_processed.txt
+BKNG,BKNG,2021,4,2021_Q4_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2021_Q4_bkng_processed.txt
+BKNG,BKNG,2022,1,2022_Q1_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2022_Q1_bkng_processed.txt
+BKNG,BKNG,2022,2,2022_Q2_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2022_Q2_bkng_processed.txt
+BKNG,BKNG,2022,3,2022_Q3_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2022_Q3_bkng_processed.txt
+BKNG,BKNG,2022,4,2022_Q4_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2022_Q4_bkng_processed.txt
+BKNG,BKNG,2023,1,2023_Q1_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2023_Q1_bkng_processed.txt
+BKNG,BKNG,2023,2,2023_Q2_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2023_Q2_bkng_processed.txt
+BKNG,BKNG,2023,3,2023_Q3_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2023_Q3_bkng_processed.txt
+BKNG,BKNG,2023,4,2023_Q4_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2023_Q4_bkng_processed.txt
+BKNG,BKNG,2024,1,2024_Q1_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2024_Q1_bkng_processed.txt
+BKNG,BKNG,2024,2,2024_Q2_bkng_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BKNG/2024_Q2_bkng_processed.txt
+BMW,BMW,2017,4,2017_Q4_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2017_Q4_bmw_processed.txt
+BMW,BMW,2018,1,2018_Q1_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2018_Q1_bmw_processed.txt
+BMW,BMW,2018,2,2018_Q2_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2018_Q2_bmw_processed.txt
+BMW,BMW,2018,3,2018_Q3_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2018_Q3_bmw_processed.txt
+BMW,BMW,2019,1,2019_Q1_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2019_Q1_bmw_processed.txt
+BMW,BMW,2019,2,2019_Q2_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2019_Q2_bmw_processed.txt
+BMW,BMW,2019,3,2019_Q3_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2019_Q3_bmw_processed.txt
+BMW,BMW,2020,1,2020_Q1_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2020_Q1_bmw_processed.txt
+BMW,BMW,2020,2,2020_Q2_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2020_Q2_bmw_processed.txt
+BMW,BMW,2020,3,2020_Q3_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2020_Q3_bmw_processed.txt
+BMW,BMW,2021,1,2021_Q1_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2021_Q1_bmw_processed.txt
+BMW,BMW,2021,3,2021_Q3_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2021_Q3_bmw_processed.txt
+BMW,BMW,2022,1,2022_Q1_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2022_Q1_bmw_processed.txt
+BMW,BMW,2022,3,2022_Q3_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2022_Q3_bmw_processed.txt
+BMW,BMW,2022,4,2022_Q4_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2022_Q4_bmw_processed.txt
+BMW,BMW,2023,1,2023_Q1_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2023_Q1_bmw_processed.txt
+BMW,BMW,2023,2,2023_Q2_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2023_Q2_bmw_processed.txt
+BMW,BMW,2023,3,2023_Q3_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2023_Q3_bmw_processed.txt
+BMW,BMW,2024,1,2024_Q1_bmw_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BMW/2024_Q1_bmw_processed.txt
+BP,BP,2017,4,2017_Q4_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2017_Q4_bp_processed.txt
+BP,BP,2018,1,2018_Q1_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2018_Q1_bp_processed.txt
+BP,BP,2018,2,2018_Q2_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2018_Q2_bp_processed.txt
+BP,BP,2018,3,2018_Q3_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2018_Q3_bp_processed.txt
+BP,BP,2018,4,2018_Q4_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2018_Q4_bp_processed.txt
+BP,BP,2019,1,2019_Q1_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2019_Q1_bp_processed.txt
+BP,BP,2019,2,2019_Q2_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2019_Q2_bp_processed.txt
+BP,BP,2019,3,2019_Q3_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2019_Q3_bp_processed.txt
+BP,BP,2019,4,2019_Q4_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2019_Q4_bp_processed.txt
+BP,BP,2020,1,2020_Q1_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2020_Q1_bp_processed.txt
+BP,BP,2020,2,2020_Q2_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2020_Q2_bp_processed.txt
+BP,BP,2020,3,2020_Q3_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2020_Q3_bp_processed.txt
+BP,BP,2020,4,2020_Q4_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2020_Q4_bp_processed.txt
+BP,BP,2021,1,2021_Q1_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2021_Q1_bp_processed.txt
+BP,BP,2021,2,2021_Q2_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2021_Q2_bp_processed.txt
+BP,BP,2021,3,2021_Q3_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2021_Q3_bp_processed.txt
+BP,BP,2021,4,2021_Q4_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2021_Q4_bp_processed.txt
+BP,BP,2022,1,2022_Q1_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2022_Q1_bp_processed.txt
+BP,BP,2022,2,2022_Q2_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2022_Q2_bp_processed.txt
+BP,BP,2022,3,2022_Q3_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2022_Q3_bp_processed.txt
+BP,BP,2022,4,2022_Q4_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2022_Q4_bp_processed.txt
+BP,BP,2023,1,2023_Q1_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2023_Q1_bp_processed.txt
+BP,BP,2023,2,2023_Q2_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2023_Q2_bp_processed.txt
+BP,BP,2023,3,2023_Q3_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2023_Q3_bp_processed.txt
+BP,BP,2023,4,2023_Q4_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2023_Q4_bp_processed.txt
+BP,BP,2024,1,2024_Q1_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2024_Q1_bp_processed.txt
+BP,BP,2024,2,2024_Q2_bp_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/BP/2024_Q2_bp_processed.txt
+Bank of America,BAC,2017,4,2017_Q4_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2017_Q4_bac_processed.txt
+Bank of America,BAC,2018,1,2018_Q1_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2018_Q1_bac_processed.txt
+Bank of America,BAC,2018,2,2018_Q2_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2018_Q2_bac_processed.txt
+Bank of America,BAC,2018,3,2018_Q3_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2018_Q3_bac_processed.txt
+Bank of America,BAC,2018,4,2018_Q4_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2018_Q4_bac_processed.txt
+Bank of America,BAC,2019,1,2019_Q1_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2019_Q1_bac_processed.txt
+Bank of America,BAC,2019,2,2019_Q2_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2019_Q2_bac_processed.txt
+Bank of America,BAC,2019,3,2019_Q3_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2019_Q3_bac_processed.txt
+Bank of America,BAC,2019,4,2019_Q4_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2019_Q4_bac_processed.txt
+Bank of America,BAC,2020,1,2020_Q1_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2020_Q1_bac_processed.txt
+Bank of America,BAC,2020,2,2020_Q2_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2020_Q2_bac_processed.txt
+Bank of America,BAC,2020,3,2020_Q3_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2020_Q3_bac_processed.txt
+Bank of America,BAC,2020,4,2020_Q4_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2020_Q4_bac_processed.txt
+Bank of America,BAC,2021,1,2021_Q1_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2021_Q1_bac_processed.txt
+Bank of America,BAC,2021,2,2021_Q2_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2021_Q2_bac_processed.txt
+Bank of America,BAC,2021,3,2021_Q3_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2021_Q3_bac_processed.txt
+Bank of America,BAC,2021,4,2021_Q4_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2021_Q4_bac_processed.txt
+Bank of America,BAC,2022,1,2022_Q1_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2022_Q1_bac_processed.txt
+Bank of America,BAC,2022,2,2022_Q2_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2022_Q2_bac_processed.txt
+Bank of America,BAC,2022,3,2022_Q3_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2022_Q3_bac_processed.txt
+Bank of America,BAC,2022,4,2022_Q4_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2022_Q4_bac_processed.txt
+Bank of America,BAC,2023,1,2023_Q1_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2023_Q1_bac_processed.txt
+Bank of America,BAC,2023,2,2023_Q2_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2023_Q2_bac_processed.txt
+Bank of America,BAC,2023,3,2023_Q3_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2023_Q3_bac_processed.txt
+Bank of America,BAC,2023,4,2023_Q4_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2023_Q4_bac_processed.txt
+Bank of America,BAC,2024,1,2024_Q1_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2024_Q1_bac_processed.txt
+Bank of America,BAC,2024,2,2024_Q2_bac_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Bank of America/2024_Q2_bac_processed.txt
+Capgemini,CAP,2018,1,2018_Q1_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2018_Q1_cap_processed.txt
+Capgemini,CAP,2018,3,2018_Q3_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2018_Q3_cap_processed.txt
+Capgemini,CAP,2019,1,2019_Q1_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2019_Q1_cap_processed.txt
+Capgemini,CAP,2019,3,2019_Q3_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2019_Q3_cap_processed.txt
+Capgemini,CAP,2020,1,2020_Q1_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2020_Q1_cap_processed.txt
+Capgemini,CAP,2020,3,2020_Q3_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2020_Q3_cap_processed.txt
+Capgemini,CAP,2021,1,2021_Q1_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2021_Q1_cap_processed.txt
+Capgemini,CAP,2021,3,2021_Q3_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2021_Q3_cap_processed.txt
+Capgemini,CAP,2022,2,2022_Q2_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2022_Q2_cap_processed.txt
+Capgemini,CAP,2022,3,2022_Q3_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2022_Q3_cap_processed.txt
+Capgemini,CAP,2022,4,2022_Q4_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2022_Q4_cap_processed.txt
+Capgemini,CAP,2023,1,2023_Q1_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2023_Q1_cap_processed.txt
+Capgemini,CAP,2023,3,2023_Q3_cap_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Capgemini/2023_Q3_cap_processed.txt
+Cardinal Health,CAH,2018,2,2018_Q2_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2018_Q2_cah_processed.txt
+Cardinal Health,CAH,2018,3,2018_Q3_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2018_Q3_cah_processed.txt
+Cardinal Health,CAH,2018,4,2018_Q4_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2018_Q4_cah_processed.txt
+Cardinal Health,CAH,2019,1,2019_Q1_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2019_Q1_cah_processed.txt
+Cardinal Health,CAH,2019,2,2019_Q2_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2019_Q2_cah_processed.txt
+Cardinal Health,CAH,2019,3,2019_Q3_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2019_Q3_cah_processed.txt
+Cardinal Health,CAH,2019,4,2019_Q4_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2019_Q4_cah_processed.txt
+Cardinal Health,CAH,2020,1,2020_Q1_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2020_Q1_cah_processed.txt
+Cardinal Health,CAH,2020,2,2020_Q2_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2020_Q2_cah_processed.txt
+Cardinal Health,CAH,2020,3,2020_Q3_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2020_Q3_cah_processed.txt
+Cardinal Health,CAH,2020,4,2020_Q4_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2020_Q4_cah_processed.txt
+Cardinal Health,CAH,2021,1,2021_Q1_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2021_Q1_cah_processed.txt
+Cardinal Health,CAH,2021,2,2021_Q2_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2021_Q2_cah_processed.txt
+Cardinal Health,CAH,2021,3,2021_Q3_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2021_Q3_cah_processed.txt
+Cardinal Health,CAH,2021,4,2021_Q4_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2021_Q4_cah_processed.txt
+Cardinal Health,CAH,2022,1,2022_Q1_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2022_Q1_cah_processed.txt
+Cardinal Health,CAH,2022,2,2022_Q2_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2022_Q2_cah_processed.txt
+Cardinal Health,CAH,2022,3,2022_Q3_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2022_Q3_cah_processed.txt
+Cardinal Health,CAH,2022,4,2022_Q4_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2022_Q4_cah_processed.txt
+Cardinal Health,CAH,2023,1,2023_Q1_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2023_Q1_cah_processed.txt
+Cardinal Health,CAH,2023,2,2023_Q2_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2023_Q2_cah_processed.txt
+Cardinal Health,CAH,2023,3,2023_Q3_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2023_Q3_cah_processed.txt
+Cardinal Health,CAH,2023,4,2023_Q4_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2023_Q4_cah_processed.txt
+Cardinal Health,CAH,2024,1,2024_Q1_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2024_Q1_cah_processed.txt
+Cardinal Health,CAH,2024,2,2024_Q2_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2024_Q2_cah_processed.txt
+Cardinal Health,CAH,2024,3,2024_Q3_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2024_Q3_cah_processed.txt
+Cardinal Health,CAH,2024,4,2024_Q4_cah_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cardinal Health/2024_Q4_cah_processed.txt
+Cisco,CSCO,2018,1,2018_Q1_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2018_Q1_csco_processed.txt
+Cisco,CSCO,2018,2,2018_Q2_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2018_Q2_csco_processed.txt
+Cisco,CSCO,2018,4,2018_Q4_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2018_Q4_csco_processed.txt
+Cisco,CSCO,2019,1,2019_Q1_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2019_Q1_csco_processed.txt
+Cisco,CSCO,2019,2,2019_Q2_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2019_Q2_csco_processed.txt
+Cisco,CSCO,2019,3,2019_Q3_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2019_Q3_csco_processed.txt
+Cisco,CSCO,2019,4,2019_Q4_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2019_Q4_csco_processed.txt
+Cisco,CSCO,2020,1,2020_Q1_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2020_Q1_csco_processed.txt
+Cisco,CSCO,2020,2,2020_Q2_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2020_Q2_csco_processed.txt
+Cisco,CSCO,2020,3,2020_Q3_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2020_Q3_csco_processed.txt
+Cisco,CSCO,2020,4,2020_Q4_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2020_Q4_csco_processed.txt
+Cisco,CSCO,2021,1,2021_Q1_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2021_Q1_csco_processed.txt
+Cisco,CSCO,2021,2,2021_Q2_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2021_Q2_csco_processed.txt
+Cisco,CSCO,2021,3,2021_Q3_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2021_Q3_csco_processed.txt
+Cisco,CSCO,2021,4,2021_Q4_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2021_Q4_csco_processed.txt
+Cisco,CSCO,2022,1,2022_Q1_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2022_Q1_csco_processed.txt
+Cisco,CSCO,2022,2,2022_Q2_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2022_Q2_csco_processed.txt
+Cisco,CSCO,2022,3,2022_Q3_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2022_Q3_csco_processed.txt
+Cisco,CSCO,2022,4,2022_Q4_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2022_Q4_csco_processed.txt
+Cisco,CSCO,2023,1,2023_Q1_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2023_Q1_csco_processed.txt
+Cisco,CSCO,2023,2,2023_Q2_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2023_Q2_csco_processed.txt
+Cisco,CSCO,2023,3,2023_Q3_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2023_Q3_csco_processed.txt
+Cisco,CSCO,2023,4,2023_Q4_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2023_Q4_csco_processed.txt
+Cisco,CSCO,2024,1,2024_Q1_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2024_Q1_csco_processed.txt
+Cisco,CSCO,2024,2,2024_Q2_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2024_Q2_csco_processed.txt
+Cisco,CSCO,2024,3,2024_Q3_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2024_Q3_csco_processed.txt
+Cisco,CSCO,2024,4,2024_Q4_csco_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Cisco/2024_Q4_csco_processed.txt
+Citi,C,2017,4,2017_Q4_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2017_Q4_c_processed.txt
+Citi,C,2018,1,2018_Q1_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2018_Q1_c_processed.txt
+Citi,C,2018,2,2018_Q2_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2018_Q2_c_processed.txt
+Citi,C,2018,3,2018_Q3_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2018_Q3_c_processed.txt
+Citi,C,2018,4,2018_Q4_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2018_Q4_c_processed.txt
+Citi,C,2019,1,2019_Q1_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2019_Q1_c_processed.txt
+Citi,C,2019,2,2019_Q2_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2019_Q2_c_processed.txt
+Citi,C,2019,3,2019_Q3_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2019_Q3_c_processed.txt
+Citi,C,2019,4,2019_Q4_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2019_Q4_c_processed.txt
+Citi,C,2020,1,2020_Q1_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2020_Q1_c_processed.txt
+Citi,C,2020,2,2020_Q2_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2020_Q2_c_processed.txt
+Citi,C,2020,3,2020_Q3_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2020_Q3_c_processed.txt
+Citi,C,2020,4,2020_Q4_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2020_Q4_c_processed.txt
+Citi,C,2021,1,2021_Q1_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2021_Q1_c_processed.txt
+Citi,C,2021,2,2021_Q2_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2021_Q2_c_processed.txt
+Citi,C,2021,3,2021_Q3_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2021_Q3_c_processed.txt
+Citi,C,2021,4,2021_Q4_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2021_Q4_c_processed.txt
+Citi,C,2022,1,2022_Q1_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2022_Q1_c_processed.txt
+Citi,C,2022,2,2022_Q2_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2022_Q2_c_processed.txt
+Citi,C,2022,3,2022_Q3_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2022_Q3_c_processed.txt
+Citi,C,2022,4,2022_Q4_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2022_Q4_c_processed.txt
+Citi,C,2023,1,2023_Q1_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2023_Q1_c_processed.txt
+Citi,C,2023,2,2023_Q2_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2023_Q2_c_processed.txt
+Citi,C,2023,3,2023_Q3_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2023_Q3_c_processed.txt
+Citi,C,2023,4,2023_Q4_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2023_Q4_c_processed.txt
+Citi,C,2024,1,2024_Q1_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2024_Q1_c_processed.txt
+Citi,C,2024,2,2024_Q2_c_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Citi/2024_Q2_c_processed.txt
+Compass Group,CPG,2018,3,2018_Q3_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2018_Q3_cpg_processed.txt
+Compass Group,CPG,2019,1,2019_Q1_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2019_Q1_cpg_processed.txt
+Compass Group,CPG,2019,3,2019_Q3_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2019_Q3_cpg_processed.txt
+Compass Group,CPG,2020,1,2020_Q1_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2020_Q1_cpg_processed.txt
+Compass Group,CPG,2020,3,2020_Q3_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2020_Q3_cpg_processed.txt
+Compass Group,CPG,2021,1,2021_Q1_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2021_Q1_cpg_processed.txt
+Compass Group,CPG,2021,3,2021_Q3_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2021_Q3_cpg_processed.txt
+Compass Group,CPG,2021,4,2021_Q4_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2021_Q4_cpg_processed.txt
+Compass Group,CPG,2022,1,2022_Q1_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2022_Q1_cpg_processed.txt
+Compass Group,CPG,2022,2,2022_Q2_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2022_Q2_cpg_processed.txt
+Compass Group,CPG,2023,2,2023_Q2_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2023_Q2_cpg_processed.txt
+Compass Group,CPG,2023,3,2023_Q3_cpg_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Compass Group/2023_Q3_cpg_processed.txt
+Costco,COST,2018,2,2018_Q2_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2018_Q2_cost_processed.txt
+Costco,COST,2018,3,2018_Q3_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2018_Q3_cost_processed.txt
+Costco,COST,2018,4,2018_Q4_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2018_Q4_cost_processed.txt
+Costco,COST,2019,1,2019_Q1_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2019_Q1_cost_processed.txt
+Costco,COST,2019,2,2019_Q2_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2019_Q2_cost_processed.txt
+Costco,COST,2019,3,2019_Q3_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2019_Q3_cost_processed.txt
+Costco,COST,2019,4,2019_Q4_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2019_Q4_cost_processed.txt
+Costco,COST,2020,1,2020_Q1_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2020_Q1_cost_processed.txt
+Costco,COST,2020,2,2020_Q2_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2020_Q2_cost_processed.txt
+Costco,COST,2020,3,2020_Q3_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2020_Q3_cost_processed.txt
+Costco,COST,2020,4,2020_Q4_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2020_Q4_cost_processed.txt
+Costco,COST,2021,1,2021_Q1_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2021_Q1_cost_processed.txt
+Costco,COST,2021,2,2021_Q2_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2021_Q2_cost_processed.txt
+Costco,COST,2021,3,2021_Q3_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2021_Q3_cost_processed.txt
+Costco,COST,2021,4,2021_Q4_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2021_Q4_cost_processed.txt
+Costco,COST,2022,1,2022_Q1_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2022_Q1_cost_processed.txt
+Costco,COST,2022,2,2022_Q2_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2022_Q2_cost_processed.txt
+Costco,COST,2022,3,2022_Q3_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2022_Q3_cost_processed.txt
+Costco,COST,2022,4,2022_Q4_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2022_Q4_cost_processed.txt
+Costco,COST,2023,1,2023_Q1_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2023_Q1_cost_processed.txt
+Costco,COST,2023,2,2023_Q2_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2023_Q2_cost_processed.txt
+Costco,COST,2023,3,2023_Q3_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2023_Q3_cost_processed.txt
+Costco,COST,2023,4,2023_Q4_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2023_Q4_cost_processed.txt
+Costco,COST,2024,1,2024_Q1_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2024_Q1_cost_processed.txt
+Costco,COST,2024,2,2024_Q2_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2024_Q2_cost_processed.txt
+Costco,COST,2024,3,2024_Q3_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2024_Q3_cost_processed.txt
+Costco,COST,2024,4,2024_Q4_cost_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Costco/2024_Q4_cost_processed.txt
+Deutsche Bank,DBK,2017,4,2017_Q4_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2017_Q4_dbk_processed.txt
+Deutsche Bank,DBK,2018,1,2018_Q1_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2018_Q1_dbk_processed.txt
+Deutsche Bank,DBK,2018,2,2018_Q2_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2018_Q2_dbk_processed.txt
+Deutsche Bank,DBK,2018,3,2018_Q3_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2018_Q3_dbk_processed.txt
+Deutsche Bank,DBK,2018,4,2018_Q4_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2018_Q4_dbk_processed.txt
+Deutsche Bank,DBK,2019,1,2019_Q1_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2019_Q1_dbk_processed.txt
+Deutsche Bank,DBK,2019,2,2019_Q2_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2019_Q2_dbk_processed.txt
+Deutsche Bank,DBK,2019,3,2019_Q3_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2019_Q3_dbk_processed.txt
+Deutsche Bank,DBK,2019,4,2019_Q4_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2019_Q4_dbk_processed.txt
+Deutsche Bank,DBK,2020,1,2020_Q1_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2020_Q1_dbk_processed.txt
+Deutsche Bank,DBK,2020,2,2020_Q2_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2020_Q2_dbk_processed.txt
+Deutsche Bank,DBK,2020,3,2020_Q3_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2020_Q3_dbk_processed.txt
+Deutsche Bank,DBK,2020,4,2020_Q4_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2020_Q4_dbk_processed.txt
+Deutsche Bank,DBK,2021,1,2021_Q1_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2021_Q1_dbk_processed.txt
+Deutsche Bank,DBK,2021,2,2021_Q2_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2021_Q2_dbk_processed.txt
+Deutsche Bank,DBK,2021,3,2021_Q3_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2021_Q3_dbk_processed.txt
+Deutsche Bank,DBK,2021,4,2021_Q4_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2021_Q4_dbk_processed.txt
+Deutsche Bank,DBK,2022,1,2022_Q1_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2022_Q1_dbk_processed.txt
+Deutsche Bank,DBK,2022,2,2022_Q2_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2022_Q2_dbk_processed.txt
+Deutsche Bank,DBK,2022,3,2022_Q3_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2022_Q3_dbk_processed.txt
+Deutsche Bank,DBK,2022,4,2022_Q4_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2022_Q4_dbk_processed.txt
+Deutsche Bank,DBK,2023,1,2023_Q1_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2023_Q1_dbk_processed.txt
+Deutsche Bank,DBK,2023,2,2023_Q2_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2023_Q2_dbk_processed.txt
+Deutsche Bank,DBK,2023,3,2023_Q3_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2023_Q3_dbk_processed.txt
+Deutsche Bank,DBK,2024,1,2024_Q1_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2024_Q1_dbk_processed.txt
+Deutsche Bank,DBK,2024,2,2024_Q2_dbk_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Deutsche Bank/2024_Q2_dbk_processed.txt
+EDF,EDF,2018,1,2018_Q1_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2018_Q1_edf_processed.txt
+EDF,EDF,2018,3,2018_Q3_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2018_Q3_edf_processed.txt
+EDF,EDF,2019,1,2019_Q1_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2019_Q1_edf_processed.txt
+EDF,EDF,2019,3,2019_Q3_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2019_Q3_edf_processed.txt
+EDF,EDF,2020,1,2020_Q1_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2020_Q1_edf_processed.txt
+EDF,EDF,2020,2,2020_Q2_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2020_Q2_edf_processed.txt
+EDF,EDF,2020,3,2020_Q3_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2020_Q3_edf_processed.txt
+EDF,EDF,2021,1,2021_Q1_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2021_Q1_edf_processed.txt
+EDF,EDF,2021,3,2021_Q3_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2021_Q3_edf_processed.txt
+EDF,EDF,2022,2,2022_Q2_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2022_Q2_edf_processed.txt
+EDF,EDF,2022,4,2022_Q4_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2022_Q4_edf_processed.txt
+EDF,EDF,2023,2,2023_Q2_edf_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/EDF/2023_Q2_edf_processed.txt
+Elevance Health,ELV,2017,4,2017_Q4_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2017_Q4_elv_processed.txt
+Elevance Health,ELV,2018,1,2018_Q1_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2018_Q1_elv_processed.txt
+Elevance Health,ELV,2018,2,2018_Q2_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2018_Q2_elv_processed.txt
+Elevance Health,ELV,2018,3,2018_Q3_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2018_Q3_elv_processed.txt
+Elevance Health,ELV,2018,4,2018_Q4_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2018_Q4_elv_processed.txt
+Elevance Health,ELV,2019,1,2019_Q1_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2019_Q1_elv_processed.txt
+Elevance Health,ELV,2019,2,2019_Q2_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2019_Q2_elv_processed.txt
+Elevance Health,ELV,2019,3,2019_Q3_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2019_Q3_elv_processed.txt
+Elevance Health,ELV,2019,4,2019_Q4_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2019_Q4_elv_processed.txt
+Elevance Health,ELV,2020,1,2020_Q1_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2020_Q1_elv_processed.txt
+Elevance Health,ELV,2020,2,2020_Q2_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2020_Q2_elv_processed.txt
+Elevance Health,ELV,2020,3,2020_Q3_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2020_Q3_elv_processed.txt
+Elevance Health,ELV,2020,4,2020_Q4_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2020_Q4_elv_processed.txt
+Elevance Health,ELV,2021,1,2021_Q1_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2021_Q1_elv_processed.txt
+Elevance Health,ELV,2021,2,2021_Q2_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2021_Q2_elv_processed.txt
+Elevance Health,ELV,2021,3,2021_Q3_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2021_Q3_elv_processed.txt
+Elevance Health,ELV,2021,4,2021_Q4_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2021_Q4_elv_processed.txt
+Elevance Health,ELV,2022,1,2022_Q1_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2022_Q1_elv_processed.txt
+Elevance Health,ELV,2022,2,2022_Q2_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2022_Q2_elv_processed.txt
+Elevance Health,ELV,2022,3,2022_Q3_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2022_Q3_elv_processed.txt
+Elevance Health,ELV,2022,4,2022_Q4_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2022_Q4_elv_processed.txt
+Elevance Health,ELV,2023,1,2023_Q1_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2023_Q1_elv_processed.txt
+Elevance Health,ELV,2023,2,2023_Q2_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2023_Q2_elv_processed.txt
+Elevance Health,ELV,2023,3,2023_Q3_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2023_Q3_elv_processed.txt
+Elevance Health,ELV,2023,4,2023_Q4_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2023_Q4_elv_processed.txt
+Elevance Health,ELV,2024,1,2024_Q1_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2024_Q1_elv_processed.txt
+Elevance Health,ELV,2024,2,2024_Q2_elv_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Elevance Health/2024_Q2_elv_processed.txt
+Engie,ENGI,2018,1,2018_Q1_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2018_Q1_engi_processed.txt
+Engie,ENGI,2019,1,2019_Q1_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2019_Q1_engi_processed.txt
+Engie,ENGI,2019,3,2019_Q3_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2019_Q3_engi_processed.txt
+Engie,ENGI,2020,1,2020_Q1_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2020_Q1_engi_processed.txt
+Engie,ENGI,2020,3,2020_Q3_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2020_Q3_engi_processed.txt
+Engie,ENGI,2021,1,2021_Q1_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2021_Q1_engi_processed.txt
+Engie,ENGI,2021,3,2021_Q3_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2021_Q3_engi_processed.txt
+Engie,ENGI,2022,1,2022_Q1_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2022_Q1_engi_processed.txt
+Engie,ENGI,2022,3,2022_Q3_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2022_Q3_engi_processed.txt
+Engie,ENGI,2023,1,2023_Q1_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2023_Q1_engi_processed.txt
+Engie,ENGI,2023,3,2023_Q3_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2023_Q3_engi_processed.txt
+Engie,ENGI,2024,1,2024_Q1_engi_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Engie/2024_Q1_engi_processed.txt
+Ford,F,2017,4,2017_Q4_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2017_Q4_f_processed.txt
+Ford,F,2018,1,2018_Q1_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2018_Q1_f_processed.txt
+Ford,F,2018,2,2018_Q2_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2018_Q2_f_processed.txt
+Ford,F,2018,3,2018_Q3_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2018_Q3_f_processed.txt
+Ford,F,2018,4,2018_Q4_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2018_Q4_f_processed.txt
+Ford,F,2019,1,2019_Q1_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2019_Q1_f_processed.txt
+Ford,F,2019,2,2019_Q2_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2019_Q2_f_processed.txt
+Ford,F,2019,3,2019_Q3_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2019_Q3_f_processed.txt
+Ford,F,2019,4,2019_Q4_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2019_Q4_f_processed.txt
+Ford,F,2020,1,2020_Q1_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2020_Q1_f_processed.txt
+Ford,F,2020,2,2020_Q2_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2020_Q2_f_processed.txt
+Ford,F,2020,3,2020_Q3_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2020_Q3_f_processed.txt
+Ford,F,2020,4,2020_Q4_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2020_Q4_f_processed.txt
+Ford,F,2021,1,2021_Q1_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2021_Q1_f_processed.txt
+Ford,F,2021,2,2021_Q2_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2021_Q2_f_processed.txt
+Ford,F,2021,3,2021_Q3_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2021_Q3_f_processed.txt
+Ford,F,2021,4,2021_Q4_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2021_Q4_f_processed.txt
+Ford,F,2022,1,2022_Q1_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2022_Q1_f_processed.txt
+Ford,F,2022,2,2022_Q2_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2022_Q2_f_processed.txt
+Ford,F,2022,3,2022_Q3_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2022_Q3_f_processed.txt
+Ford,F,2022,4,2022_Q4_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2022_Q4_f_processed.txt
+Ford,F,2023,1,2023_Q1_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2023_Q1_f_processed.txt
+Ford,F,2023,2,2023_Q2_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2023_Q2_f_processed.txt
+Ford,F,2023,3,2023_Q3_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2023_Q3_f_processed.txt
+Ford,F,2023,4,2023_Q4_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2023_Q4_f_processed.txt
+Ford,F,2024,1,2024_Q1_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2024_Q1_f_processed.txt
+Ford,F,2024,2,2024_Q2_f_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Ford/2024_Q2_f_processed.txt
+GM,GM,2017,4,2017_Q4_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2017_Q4_gm_processed.txt
+GM,GM,2018,1,2018_Q1_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2018_Q1_gm_processed.txt
+GM,GM,2018,2,2018_Q2_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2018_Q2_gm_processed.txt
+GM,GM,2018,3,2018_Q3_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2018_Q3_gm_processed.txt
+GM,GM,2018,4,2018_Q4_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2018_Q4_gm_processed.txt
+GM,GM,2019,1,2019_Q1_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2019_Q1_gm_processed.txt
+GM,GM,2019,2,2019_Q2_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2019_Q2_gm_processed.txt
+GM,GM,2019,3,2019_Q3_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2019_Q3_gm_processed.txt
+GM,GM,2019,4,2019_Q4_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2019_Q4_gm_processed.txt
+GM,GM,2020,1,2020_Q1_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2020_Q1_gm_processed.txt
+GM,GM,2020,2,2020_Q2_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2020_Q2_gm_processed.txt
+GM,GM,2020,3,2020_Q3_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2020_Q3_gm_processed.txt
+GM,GM,2020,4,2020_Q4_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2020_Q4_gm_processed.txt
+GM,GM,2021,1,2021_Q1_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2021_Q1_gm_processed.txt
+GM,GM,2021,2,2021_Q2_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2021_Q2_gm_processed.txt
+GM,GM,2021,3,2021_Q3_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2021_Q3_gm_processed.txt
+GM,GM,2021,4,2021_Q4_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2021_Q4_gm_processed.txt
+GM,GM,2022,1,2022_Q1_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2022_Q1_gm_processed.txt
+GM,GM,2022,2,2022_Q2_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2022_Q2_gm_processed.txt
+GM,GM,2022,3,2022_Q3_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2022_Q3_gm_processed.txt
+GM,GM,2022,4,2022_Q4_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2022_Q4_gm_processed.txt
+GM,GM,2023,1,2023_Q1_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2023_Q1_gm_processed.txt
+GM,GM,2023,2,2023_Q2_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2023_Q2_gm_processed.txt
+GM,GM,2023,3,2023_Q3_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2023_Q3_gm_processed.txt
+GM,GM,2023,4,2023_Q4_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2023_Q4_gm_processed.txt
+GM,GM,2024,1,2024_Q1_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2024_Q1_gm_processed.txt
+GM,GM,2024,2,2024_Q2_gm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/GM/2024_Q2_gm_processed.txt
+IBM,IBM,2017,4,2017_Q4_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2017_Q4_ibm_processed.txt
+IBM,IBM,2018,1,2018_Q1_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2018_Q1_ibm_processed.txt
+IBM,IBM,2018,2,2018_Q2_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2018_Q2_ibm_processed.txt
+IBM,IBM,2018,3,2018_Q3_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2018_Q3_ibm_processed.txt
+IBM,IBM,2018,4,2018_Q4_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2018_Q4_ibm_processed.txt
+IBM,IBM,2019,1,2019_Q1_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2019_Q1_ibm_processed.txt
+IBM,IBM,2019,2,2019_Q2_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2019_Q2_ibm_processed.txt
+IBM,IBM,2019,3,2019_Q3_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2019_Q3_ibm_processed.txt
+IBM,IBM,2019,4,2019_Q4_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2019_Q4_ibm_processed.txt
+IBM,IBM,2020,1,2020_Q1_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2020_Q1_ibm_processed.txt
+IBM,IBM,2020,2,2020_Q2_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2020_Q2_ibm_processed.txt
+IBM,IBM,2020,3,2020_Q3_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2020_Q3_ibm_processed.txt
+IBM,IBM,2020,4,2020_Q4_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2020_Q4_ibm_processed.txt
+IBM,IBM,2021,1,2021_Q1_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2021_Q1_ibm_processed.txt
+IBM,IBM,2021,2,2021_Q2_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2021_Q2_ibm_processed.txt
+IBM,IBM,2021,3,2021_Q3_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2021_Q3_ibm_processed.txt
+IBM,IBM,2021,4,2021_Q4_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2021_Q4_ibm_processed.txt
+IBM,IBM,2022,1,2022_Q1_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2022_Q1_ibm_processed.txt
+IBM,IBM,2022,2,2022_Q2_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2022_Q2_ibm_processed.txt
+IBM,IBM,2022,3,2022_Q3_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2022_Q3_ibm_processed.txt
+IBM,IBM,2022,4,2022_Q4_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2022_Q4_ibm_processed.txt
+IBM,IBM,2023,1,2023_Q1_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2023_Q1_ibm_processed.txt
+IBM,IBM,2023,2,2023_Q2_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2023_Q2_ibm_processed.txt
+IBM,IBM,2023,3,2023_Q3_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2023_Q3_ibm_processed.txt
+IBM,IBM,2023,4,2023_Q4_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2023_Q4_ibm_processed.txt
+IBM,IBM,2024,1,2024_Q1_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2024_Q1_ibm_processed.txt
+IBM,IBM,2024,2,2024_Q2_ibm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/IBM/2024_Q2_ibm_processed.txt
+JPM,JPM,2017,4,2017_Q4_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2017_Q4_jpm_processed.txt
+JPM,JPM,2018,1,2018_Q1_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2018_Q1_jpm_processed.txt
+JPM,JPM,2018,2,2018_Q2_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2018_Q2_jpm_processed.txt
+JPM,JPM,2018,3,2018_Q3_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2018_Q3_jpm_processed.txt
+JPM,JPM,2018,4,2018_Q4_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2018_Q4_jpm_processed.txt
+JPM,JPM,2019,1,2019_Q1_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2019_Q1_jpm_processed.txt
+JPM,JPM,2019,2,2019_Q2_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2019_Q2_jpm_processed.txt
+JPM,JPM,2019,3,2019_Q3_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2019_Q3_jpm_processed.txt
+JPM,JPM,2019,4,2019_Q4_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2019_Q4_jpm_processed.txt
+JPM,JPM,2020,1,2020_Q1_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2020_Q1_jpm_processed.txt
+JPM,JPM,2020,2,2020_Q2_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2020_Q2_jpm_processed.txt
+JPM,JPM,2020,3,2020_Q3_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2020_Q3_jpm_processed.txt
+JPM,JPM,2020,4,2020_Q4_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2020_Q4_jpm_processed.txt
+JPM,JPM,2021,1,2021_Q1_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2021_Q1_jpm_processed.txt
+JPM,JPM,2021,2,2021_Q2_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2021_Q2_jpm_processed.txt
+JPM,JPM,2021,3,2021_Q3_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2021_Q3_jpm_processed.txt
+JPM,JPM,2021,4,2021_Q4_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2021_Q4_jpm_processed.txt
+JPM,JPM,2022,1,2022_Q1_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2022_Q1_jpm_processed.txt
+JPM,JPM,2022,2,2022_Q2_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2022_Q2_jpm_processed.txt
+JPM,JPM,2022,3,2022_Q3_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2022_Q3_jpm_processed.txt
+JPM,JPM,2022,4,2022_Q4_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2022_Q4_jpm_processed.txt
+JPM,JPM,2023,1,2023_Q1_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2023_Q1_jpm_processed.txt
+JPM,JPM,2023,2,2023_Q2_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2023_Q2_jpm_processed.txt
+JPM,JPM,2023,3,2023_Q3_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2023_Q3_jpm_processed.txt
+JPM,JPM,2023,4,2023_Q4_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2023_Q4_jpm_processed.txt
+JPM,JPM,2024,1,2024_Q1_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2024_Q1_jpm_processed.txt
+JPM,JPM,2024,2,2024_Q2_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2024_Q2_jpm_processed.txt
+JPM,JPM,2024,3,2024_Q3_jpm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/JPM/2024_Q3_jpm_processed.txt
+Loreal,OR,2018,1,2018_Q1_or_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Loreal/2018_Q1_or_processed.txt
+Loreal,OR,2019,1,2019_Q1_or_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Loreal/2019_Q1_or_processed.txt
+Loreal,OR,2020,1,2020_Q1_or_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Loreal/2020_Q1_or_processed.txt
+Loreal,OR,2020,3,2020_Q3_or_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Loreal/2020_Q3_or_processed.txt
+Loreal,OR,2021,1,2021_Q1_or_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Loreal/2021_Q1_or_processed.txt
+Loreal,OR,2021,3,2021_Q3_or_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Loreal/2021_Q3_or_processed.txt
+Loreal,OR,2022,4,2022_Q4_or_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Loreal/2022_Q4_or_processed.txt
+Loreal,OR,2023,2,2023_Q2_or_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Loreal/2023_Q2_or_processed.txt
+Louis Vuitton,MC,2018,1,2018_Q1_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2018_Q1_mc_processed.txt
+Louis Vuitton,MC,2018,3,2018_Q3_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2018_Q3_mc_processed.txt
+Louis Vuitton,MC,2019,1,2019_Q1_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2019_Q1_mc_processed.txt
+Louis Vuitton,MC,2019,2,2019_Q2_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2019_Q2_mc_processed.txt
+Louis Vuitton,MC,2019,3,2019_Q3_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2019_Q3_mc_processed.txt
+Louis Vuitton,MC,2019,4,2019_Q4_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2019_Q4_mc_processed.txt
+Louis Vuitton,MC,2020,1,2020_Q1_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2020_Q1_mc_processed.txt
+Louis Vuitton,MC,2020,2,2020_Q2_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2020_Q2_mc_processed.txt
+Louis Vuitton,MC,2020,3,2020_Q3_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2020_Q3_mc_processed.txt
+Louis Vuitton,MC,2021,1,2021_Q1_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2021_Q1_mc_processed.txt
+Louis Vuitton,MC,2021,3,2021_Q3_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2021_Q3_mc_processed.txt
+Louis Vuitton,MC,2022,2,2022_Q2_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2022_Q2_mc_processed.txt
+Louis Vuitton,MC,2022,4,2022_Q4_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2022_Q4_mc_processed.txt
+Louis Vuitton,MC,2023,2,2023_Q2_mc_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Louis Vuitton/2023_Q2_mc_processed.txt
+Lululemon,LULU,2017,4,2017_Q4_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2017_Q4_lulu_processed.txt
+Lululemon,LULU,2018,1,2018_Q1_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2018_Q1_lulu_processed.txt
+Lululemon,LULU,2018,2,2018_Q2_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2018_Q2_lulu_processed.txt
+Lululemon,LULU,2018,3,2018_Q3_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2018_Q3_lulu_processed.txt
+Lululemon,LULU,2018,4,2018_Q4_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2018_Q4_lulu_processed.txt
+Lululemon,LULU,2019,1,2019_Q1_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2019_Q1_lulu_processed.txt
+Lululemon,LULU,2019,2,2019_Q2_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2019_Q2_lulu_processed.txt
+Lululemon,LULU,2019,3,2019_Q3_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2019_Q3_lulu_processed.txt
+Lululemon,LULU,2019,4,2019_Q4_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2019_Q4_lulu_processed.txt
+Lululemon,LULU,2020,1,2020_Q1_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2020_Q1_lulu_processed.txt
+Lululemon,LULU,2020,2,2020_Q2_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2020_Q2_lulu_processed.txt
+Lululemon,LULU,2020,3,2020_Q3_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2020_Q3_lulu_processed.txt
+Lululemon,LULU,2020,4,2020_Q4_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2020_Q4_lulu_processed.txt
+Lululemon,LULU,2021,1,2021_Q1_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2021_Q1_lulu_processed.txt
+Lululemon,LULU,2021,2,2021_Q2_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2021_Q2_lulu_processed.txt
+Lululemon,LULU,2021,3,2021_Q3_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2021_Q3_lulu_processed.txt
+Lululemon,LULU,2021,4,2021_Q4_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2021_Q4_lulu_processed.txt
+Lululemon,LULU,2022,1,2022_Q1_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2022_Q1_lulu_processed.txt
+Lululemon,LULU,2022,2,2022_Q2_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2022_Q2_lulu_processed.txt
+Lululemon,LULU,2022,3,2022_Q3_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2022_Q3_lulu_processed.txt
+Lululemon,LULU,2022,4,2022_Q4_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2022_Q4_lulu_processed.txt
+Lululemon,LULU,2023,1,2023_Q1_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2023_Q1_lulu_processed.txt
+Lululemon,LULU,2024,1,2024_Q1_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2024_Q1_lulu_processed.txt
+Lululemon,LULU,2024,2,2024_Q2_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2024_Q2_lulu_processed.txt
+Lululemon,LULU,2024,3,2024_Q3_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2024_Q3_lulu_processed.txt
+Lululemon,LULU,2025,1,2025_Q1_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2025_Q1_lulu_processed.txt
+Lululemon,LULU,2025,2,2025_Q2_lulu_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Lululemon/2025_Q2_lulu_processed.txt
+META,META,2017,4,2017_Q4_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2017_Q4_meta_processed.txt
+META,META,2018,1,2018_Q1_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2018_Q1_meta_processed.txt
+META,META,2018,2,2018_Q2_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2018_Q2_meta_processed.txt
+META,META,2018,3,2018_Q3_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2018_Q3_meta_processed.txt
+META,META,2018,4,2018_Q4_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2018_Q4_meta_processed.txt
+META,META,2019,1,2019_Q1_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2019_Q1_meta_processed.txt
+META,META,2019,2,2019_Q2_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2019_Q2_meta_processed.txt
+META,META,2019,3,2019_Q3_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2019_Q3_meta_processed.txt
+META,META,2019,4,2019_Q4_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2019_Q4_meta_processed.txt
+META,META,2020,1,2020_Q1_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2020_Q1_meta_processed.txt
+META,META,2020,2,2020_Q2_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2020_Q2_meta_processed.txt
+META,META,2020,3,2020_Q3_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2020_Q3_meta_processed.txt
+META,META,2020,4,2020_Q4_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2020_Q4_meta_processed.txt
+META,META,2021,1,2021_Q1_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2021_Q1_meta_processed.txt
+META,META,2021,2,2021_Q2_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2021_Q2_meta_processed.txt
+META,META,2021,3,2021_Q3_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2021_Q3_meta_processed.txt
+META,META,2021,4,2021_Q4_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2021_Q4_meta_processed.txt
+META,META,2022,1,2022_Q1_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2022_Q1_meta_processed.txt
+META,META,2022,2,2022_Q2_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2022_Q2_meta_processed.txt
+META,META,2022,3,2022_Q3_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2022_Q3_meta_processed.txt
+META,META,2022,4,2022_Q4_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2022_Q4_meta_processed.txt
+META,META,2023,1,2023_Q1_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2023_Q1_meta_processed.txt
+META,META,2023,2,2023_Q2_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2023_Q2_meta_processed.txt
+META,META,2023,3,2023_Q3_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2023_Q3_meta_processed.txt
+META,META,2023,4,2023_Q4_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2023_Q4_meta_processed.txt
+META,META,2024,1,2024_Q1_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2024_Q1_meta_processed.txt
+META,META,2024,2,2024_Q2_meta_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/META/2024_Q2_meta_processed.txt
+Marriott,MAR,2017,4,2017_Q4_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2017_Q4_mar_processed.txt
+Marriott,MAR,2018,1,2018_Q1_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2018_Q1_mar_processed.txt
+Marriott,MAR,2018,2,2018_Q2_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2018_Q2_mar_processed.txt
+Marriott,MAR,2018,3,2018_Q3_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2018_Q3_mar_processed.txt
+Marriott,MAR,2018,4,2018_Q4_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2018_Q4_mar_processed.txt
+Marriott,MAR,2019,1,2019_Q1_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2019_Q1_mar_processed.txt
+Marriott,MAR,2019,2,2019_Q2_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2019_Q2_mar_processed.txt
+Marriott,MAR,2019,3,2019_Q3_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2019_Q3_mar_processed.txt
+Marriott,MAR,2019,4,2019_Q4_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2019_Q4_mar_processed.txt
+Marriott,MAR,2020,1,2020_Q1_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2020_Q1_mar_processed.txt
+Marriott,MAR,2020,2,2020_Q2_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2020_Q2_mar_processed.txt
+Marriott,MAR,2020,3,2020_Q3_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2020_Q3_mar_processed.txt
+Marriott,MAR,2020,4,2020_Q4_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2020_Q4_mar_processed.txt
+Marriott,MAR,2021,1,2021_Q1_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2021_Q1_mar_processed.txt
+Marriott,MAR,2021,2,2021_Q2_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2021_Q2_mar_processed.txt
+Marriott,MAR,2021,3,2021_Q3_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2021_Q3_mar_processed.txt
+Marriott,MAR,2021,4,2021_Q4_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2021_Q4_mar_processed.txt
+Marriott,MAR,2022,1,2022_Q1_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2022_Q1_mar_processed.txt
+Marriott,MAR,2022,2,2022_Q2_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2022_Q2_mar_processed.txt
+Marriott,MAR,2022,3,2022_Q3_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2022_Q3_mar_processed.txt
+Marriott,MAR,2022,4,2022_Q4_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2022_Q4_mar_processed.txt
+Marriott,MAR,2023,1,2023_Q1_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2023_Q1_mar_processed.txt
+Marriott,MAR,2023,2,2023_Q2_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2023_Q2_mar_processed.txt
+Marriott,MAR,2023,3,2023_Q3_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2023_Q3_mar_processed.txt
+Marriott,MAR,2023,4,2023_Q4_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2023_Q4_mar_processed.txt
+Marriott,MAR,2024,1,2024_Q1_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2024_Q1_mar_processed.txt
+Marriott,MAR,2024,2,2024_Q2_mar_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Marriott/2024_Q2_mar_processed.txt
+Mastercard,MA,2018,1,2018_Q1_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2018_Q1_ma_processed.txt
+Mastercard,MA,2018,2,2018_Q2_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2018_Q2_ma_processed.txt
+Mastercard,MA,2018,3,2018_Q3_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2018_Q3_ma_processed.txt
+Mastercard,MA,2018,4,2018_Q4_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2018_Q4_ma_processed.txt
+Mastercard,MA,2019,1,2019_Q1_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2019_Q1_ma_processed.txt
+Mastercard,MA,2019,2,2019_Q2_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2019_Q2_ma_processed.txt
+Mastercard,MA,2019,3,2019_Q3_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2019_Q3_ma_processed.txt
+Mastercard,MA,2019,4,2019_Q4_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2019_Q4_ma_processed.txt
+Mastercard,MA,2020,1,2020_Q1_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2020_Q1_ma_processed.txt
+Mastercard,MA,2020,2,2020_Q2_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2020_Q2_ma_processed.txt
+Mastercard,MA,2020,3,2020_Q3_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2020_Q3_ma_processed.txt
+Mastercard,MA,2020,4,2020_Q4_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2020_Q4_ma_processed.txt
+Mastercard,MA,2021,1,2021_Q1_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2021_Q1_ma_processed.txt
+Mastercard,MA,2021,2,2021_Q2_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2021_Q2_ma_processed.txt
+Mastercard,MA,2021,3,2021_Q3_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2021_Q3_ma_processed.txt
+Mastercard,MA,2021,4,2021_Q4_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2021_Q4_ma_processed.txt
+Mastercard,MA,2022,1,2022_Q1_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2022_Q1_ma_processed.txt
+Mastercard,MA,2022,2,2022_Q2_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2022_Q2_ma_processed.txt
+Mastercard,MA,2022,3,2022_Q3_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2022_Q3_ma_processed.txt
+Mastercard,MA,2022,4,2022_Q4_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2022_Q4_ma_processed.txt
+Mastercard,MA,2023,1,2023_Q1_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2023_Q1_ma_processed.txt
+Mastercard,MA,2023,2,2023_Q2_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2023_Q2_ma_processed.txt
+Mastercard,MA,2023,3,2023_Q3_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2023_Q3_ma_processed.txt
+Mastercard,MA,2023,4,2023_Q4_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2023_Q4_ma_processed.txt
+Mastercard,MA,2024,1,2024_Q1_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2024_Q1_ma_processed.txt
+Mastercard,MA,2024,2,2024_Q2_ma_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Mastercard/2024_Q2_ma_processed.txt
+Microsoft,MSFT,2007,1,2007_Q1_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2007_Q1_msft_processed.txt
+Microsoft,MSFT,2018,2,2018_Q2_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2018_Q2_msft_processed.txt
+Microsoft,MSFT,2018,3,2018_Q3_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2018_Q3_msft_processed.txt
+Microsoft,MSFT,2018,4,2018_Q4_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2018_Q4_msft_processed.txt
+Microsoft,MSFT,2019,1,2019_Q1_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2019_Q1_msft_processed.txt
+Microsoft,MSFT,2019,2,2019_Q2_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2019_Q2_msft_processed.txt
+Microsoft,MSFT,2019,3,2019_Q3_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2019_Q3_msft_processed.txt
+Microsoft,MSFT,2019,4,2019_Q4_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2019_Q4_msft_processed.txt
+Microsoft,MSFT,2020,1,2020_Q1_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2020_Q1_msft_processed.txt
+Microsoft,MSFT,2020,2,2020_Q2_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2020_Q2_msft_processed.txt
+Microsoft,MSFT,2020,3,2020_Q3_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2020_Q3_msft_processed.txt
+Microsoft,MSFT,2020,4,2020_Q4_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2020_Q4_msft_processed.txt
+Microsoft,MSFT,2021,1,2021_Q1_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2021_Q1_msft_processed.txt
+Microsoft,MSFT,2021,2,2021_Q2_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2021_Q2_msft_processed.txt
+Microsoft,MSFT,2021,3,2021_Q3_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2021_Q3_msft_processed.txt
+Microsoft,MSFT,2021,4,2021_Q4_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2021_Q4_msft_processed.txt
+Microsoft,MSFT,2022,1,2022_Q1_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2022_Q1_msft_processed.txt
+Microsoft,MSFT,2022,2,2022_Q2_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2022_Q2_msft_processed.txt
+Microsoft,MSFT,2022,3,2022_Q3_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2022_Q3_msft_processed.txt
+Microsoft,MSFT,2022,4,2022_Q4_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2022_Q4_msft_processed.txt
+Microsoft,MSFT,2023,1,2023_Q1_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2023_Q1_msft_processed.txt
+Microsoft,MSFT,2023,2,2023_Q2_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2023_Q2_msft_processed.txt
+Microsoft,MSFT,2023,3,2023_Q3_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2023_Q3_msft_processed.txt
+Microsoft,MSFT,2023,4,2023_Q4_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2023_Q4_msft_processed.txt
+Microsoft,MSFT,2024,1,2024_Q1_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2024_Q1_msft_processed.txt
+Microsoft,MSFT,2024,2,2024_Q2_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2024_Q2_msft_processed.txt
+Microsoft,MSFT,2024,3,2024_Q3_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2024_Q3_msft_processed.txt
+Microsoft,MSFT,2024,4,2024_Q4_msft_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Microsoft/2024_Q4_msft_processed.txt
+Nike,NKE,2018,2,2018_Q2_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2018_Q2_nke_processed.txt
+Nike,NKE,2018,3,2018_Q3_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2018_Q3_nke_processed.txt
+Nike,NKE,2018,4,2018_Q4_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2018_Q4_nke_processed.txt
+Nike,NKE,2019,1,2019_Q1_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2019_Q1_nke_processed.txt
+Nike,NKE,2019,2,2019_Q2_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2019_Q2_nke_processed.txt
+Nike,NKE,2019,3,2019_Q3_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2019_Q3_nke_processed.txt
+Nike,NKE,2019,4,2019_Q4_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2019_Q4_nke_processed.txt
+Nike,NKE,2020,1,2020_Q1_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2020_Q1_nke_processed.txt
+Nike,NKE,2020,2,2020_Q2_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2020_Q2_nke_processed.txt
+Nike,NKE,2020,3,2020_Q3_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2020_Q3_nke_processed.txt
+Nike,NKE,2020,4,2020_Q4_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2020_Q4_nke_processed.txt
+Nike,NKE,2021,1,2021_Q1_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2021_Q1_nke_processed.txt
+Nike,NKE,2021,2,2021_Q2_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2021_Q2_nke_processed.txt
+Nike,NKE,2021,3,2021_Q3_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2021_Q3_nke_processed.txt
+Nike,NKE,2021,4,2021_Q4_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2021_Q4_nke_processed.txt
+Nike,NKE,2022,1,2022_Q1_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2022_Q1_nke_processed.txt
+Nike,NKE,2022,2,2022_Q2_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2022_Q2_nke_processed.txt
+Nike,NKE,2022,3,2022_Q3_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2022_Q3_nke_processed.txt
+Nike,NKE,2022,4,2022_Q4_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2022_Q4_nke_processed.txt
+Nike,NKE,2023,1,2023_Q1_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2023_Q1_nke_processed.txt
+Nike,NKE,2023,2,2023_Q2_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2023_Q2_nke_processed.txt
+Nike,NKE,2023,3,2023_Q3_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2023_Q3_nke_processed.txt
+Nike,NKE,2023,4,2023_Q4_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2023_Q4_nke_processed.txt
+Nike,NKE,2024,1,2024_Q1_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2024_Q1_nke_processed.txt
+Nike,NKE,2024,2,2024_Q2_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2024_Q2_nke_processed.txt
+Nike,NKE,2024,3,2024_Q3_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2024_Q3_nke_processed.txt
+Nike,NKE,2024,4,2024_Q4_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2024_Q4_nke_processed.txt
+Nike,NKE,2025,1,2025_Q1_nke_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nike/2025_Q1_nke_processed.txt
+Nvidia,NVDA,2007,1,2007_Q1_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2007_Q1_nvda_processed.txt
+Nvidia,NVDA,2018,3,2018_Q3_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2018_Q3_nvda_processed.txt
+Nvidia,NVDA,2018,4,2018_Q4_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2018_Q4_nvda_processed.txt
+Nvidia,NVDA,2019,1,2019_Q1_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2019_Q1_nvda_processed.txt
+Nvidia,NVDA,2019,2,2019_Q2_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2019_Q2_nvda_processed.txt
+Nvidia,NVDA,2019,4,2019_Q4_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2019_Q4_nvda_processed.txt
+Nvidia,NVDA,2020,1,2020_Q1_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2020_Q1_nvda_processed.txt
+Nvidia,NVDA,2020,2,2020_Q2_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2020_Q2_nvda_processed.txt
+Nvidia,NVDA,2020,3,2020_Q3_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2020_Q3_nvda_processed.txt
+Nvidia,NVDA,2020,4,2020_Q4_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2020_Q4_nvda_processed.txt
+Nvidia,NVDA,2021,1,2021_Q1_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2021_Q1_nvda_processed.txt
+Nvidia,NVDA,2021,2,2021_Q2_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2021_Q2_nvda_processed.txt
+Nvidia,NVDA,2021,3,2021_Q3_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2021_Q3_nvda_processed.txt
+Nvidia,NVDA,2021,4,2021_Q4_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2021_Q4_nvda_processed.txt
+Nvidia,NVDA,2022,1,2022_Q1_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2022_Q1_nvda_processed.txt
+Nvidia,NVDA,2022,2,2022_Q2_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2022_Q2_nvda_processed.txt
+Nvidia,NVDA,2022,3,2022_Q3_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2022_Q3_nvda_processed.txt
+Nvidia,NVDA,2022,4,2022_Q4_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2022_Q4_nvda_processed.txt
+Nvidia,NVDA,2023,1,2023_Q1_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2023_Q1_nvda_processed.txt
+Nvidia,NVDA,2023,2,2023_Q2_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2023_Q2_nvda_processed.txt
+Nvidia,NVDA,2023,3,2023_Q3_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2023_Q3_nvda_processed.txt
+Nvidia,NVDA,2023,4,2023_Q4_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2023_Q4_nvda_processed.txt
+Nvidia,NVDA,2024,1,2024_Q1_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2024_Q1_nvda_processed.txt
+Nvidia,NVDA,2024,2,2024_Q2_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2024_Q2_nvda_processed.txt
+Nvidia,NVDA,2024,3,2024_Q3_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2024_Q3_nvda_processed.txt
+Nvidia,NVDA,2024,4,2024_Q4_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2024_Q4_nvda_processed.txt
+Nvidia,NVDA,2025,1,2025_Q1_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2025_Q1_nvda_processed.txt
+Nvidia,NVDA,2025,2,2025_Q2_nvda_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Nvidia/2025_Q2_nvda_processed.txt
+Oracle,ORCL,2018,3,2018_Q3_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2018_Q3_orcl_processed.txt
+Oracle,ORCL,2018,4,2018_Q4_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2018_Q4_orcl_processed.txt
+Oracle,ORCL,2019,1,2019_Q1_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2019_Q1_orcl_processed.txt
+Oracle,ORCL,2019,2,2019_Q2_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2019_Q2_orcl_processed.txt
+Oracle,ORCL,2019,3,2019_Q3_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2019_Q3_orcl_processed.txt
+Oracle,ORCL,2019,4,2019_Q4_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2019_Q4_orcl_processed.txt
+Oracle,ORCL,2020,1,2020_Q1_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2020_Q1_orcl_processed.txt
+Oracle,ORCL,2020,2,2020_Q2_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2020_Q2_orcl_processed.txt
+Oracle,ORCL,2020,3,2020_Q3_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2020_Q3_orcl_processed.txt
+Oracle,ORCL,2020,4,2020_Q4_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2020_Q4_orcl_processed.txt
+Oracle,ORCL,2021,1,2021_Q1_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2021_Q1_orcl_processed.txt
+Oracle,ORCL,2021,2,2021_Q2_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2021_Q2_orcl_processed.txt
+Oracle,ORCL,2021,3,2021_Q3_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2021_Q3_orcl_processed.txt
+Oracle,ORCL,2021,4,2021_Q4_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2021_Q4_orcl_processed.txt
+Oracle,ORCL,2022,1,2022_Q1_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2022_Q1_orcl_processed.txt
+Oracle,ORCL,2022,2,2022_Q2_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2022_Q2_orcl_processed.txt
+Oracle,ORCL,2022,3,2022_Q3_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2022_Q3_orcl_processed.txt
+Oracle,ORCL,2022,4,2022_Q4_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2022_Q4_orcl_processed.txt
+Oracle,ORCL,2023,1,2023_Q1_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2023_Q1_orcl_processed.txt
+Oracle,ORCL,2023,2,2023_Q2_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2023_Q2_orcl_processed.txt
+Oracle,ORCL,2023,3,2023_Q3_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2023_Q3_orcl_processed.txt
+Oracle,ORCL,2023,4,2023_Q4_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2023_Q4_orcl_processed.txt
+Oracle,ORCL,2024,1,2024_Q1_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2024_Q1_orcl_processed.txt
+Oracle,ORCL,2024,2,2024_Q2_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2024_Q2_orcl_processed.txt
+Oracle,ORCL,2024,3,2024_Q3_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2024_Q3_orcl_processed.txt
+Oracle,ORCL,2024,4,2024_Q4_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2024_Q4_orcl_processed.txt
+Oracle,ORCL,2025,1,2025_Q1_orcl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Oracle/2025_Q1_orcl_processed.txt
+PAYPAL,PYPL,2017,4,2017_Q4_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2017_Q4_pypl_processed.txt
+PAYPAL,PYPL,2018,1,2018_Q1_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2018_Q1_pypl_processed.txt
+PAYPAL,PYPL,2018,2,2018_Q2_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2018_Q2_pypl_processed.txt
+PAYPAL,PYPL,2018,3,2018_Q3_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2018_Q3_pypl_processed.txt
+PAYPAL,PYPL,2018,4,2018_Q4_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2018_Q4_pypl_processed.txt
+PAYPAL,PYPL,2019,1,2019_Q1_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2019_Q1_pypl_processed.txt
+PAYPAL,PYPL,2019,2,2019_Q2_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2019_Q2_pypl_processed.txt
+PAYPAL,PYPL,2019,3,2019_Q3_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2019_Q3_pypl_processed.txt
+PAYPAL,PYPL,2019,4,2019_Q4_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2019_Q4_pypl_processed.txt
+PAYPAL,PYPL,2020,1,2020_Q1_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2020_Q1_pypl_processed.txt
+PAYPAL,PYPL,2020,2,2020_Q2_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2020_Q2_pypl_processed.txt
+PAYPAL,PYPL,2020,3,2020_Q3_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2020_Q3_pypl_processed.txt
+PAYPAL,PYPL,2020,4,2020_Q4_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2020_Q4_pypl_processed.txt
+PAYPAL,PYPL,2021,1,2021_Q1_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2021_Q1_pypl_processed.txt
+PAYPAL,PYPL,2021,2,2021_Q2_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2021_Q2_pypl_processed.txt
+PAYPAL,PYPL,2021,3,2021_Q3_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2021_Q3_pypl_processed.txt
+PAYPAL,PYPL,2021,4,2021_Q4_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2021_Q4_pypl_processed.txt
+PAYPAL,PYPL,2022,1,2022_Q1_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2022_Q1_pypl_processed.txt
+PAYPAL,PYPL,2022,2,2022_Q2_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2022_Q2_pypl_processed.txt
+PAYPAL,PYPL,2022,3,2022_Q3_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2022_Q3_pypl_processed.txt
+PAYPAL,PYPL,2022,4,2022_Q4_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2022_Q4_pypl_processed.txt
+PAYPAL,PYPL,2023,1,2023_Q1_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2023_Q1_pypl_processed.txt
+PAYPAL,PYPL,2023,2,2023_Q2_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2023_Q2_pypl_processed.txt
+PAYPAL,PYPL,2023,3,2023_Q3_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2023_Q3_pypl_processed.txt
+PAYPAL,PYPL,2023,4,2023_Q4_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2023_Q4_pypl_processed.txt
+PAYPAL,PYPL,2024,1,2024_Q1_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2024_Q1_pypl_processed.txt
+PAYPAL,PYPL,2024,2,2024_Q2_pypl_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/PAYPAL/2024_Q2_pypl_processed.txt
+SIE,SIE,2018,1,2018_Q1_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2018_Q1_sie_processed.txt
+SIE,SIE,2018,2,2018_Q2_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2018_Q2_sie_processed.txt
+SIE,SIE,2018,3,2018_Q3_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2018_Q3_sie_processed.txt
+SIE,SIE,2018,4,2018_Q4_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2018_Q4_sie_processed.txt
+SIE,SIE,2019,1,2019_Q1_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2019_Q1_sie_processed.txt
+SIE,SIE,2019,3,2019_Q3_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2019_Q3_sie_processed.txt
+SIE,SIE,2019,4,2019_Q4_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2019_Q4_sie_processed.txt
+SIE,SIE,2020,1,2020_Q1_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2020_Q1_sie_processed.txt
+SIE,SIE,2020,2,2020_Q2_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2020_Q2_sie_processed.txt
+SIE,SIE,2020,3,2020_Q3_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2020_Q3_sie_processed.txt
+SIE,SIE,2020,4,2020_Q4_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2020_Q4_sie_processed.txt
+SIE,SIE,2021,1,2021_Q1_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2021_Q1_sie_processed.txt
+SIE,SIE,2021,2,2021_Q2_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2021_Q2_sie_processed.txt
+SIE,SIE,2021,3,2021_Q3_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2021_Q3_sie_processed.txt
+SIE,SIE,2021,4,2021_Q4_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2021_Q4_sie_processed.txt
+SIE,SIE,2022,1,2022_Q1_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2022_Q1_sie_processed.txt
+SIE,SIE,2022,2,2022_Q2_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2022_Q2_sie_processed.txt
+SIE,SIE,2022,3,2022_Q3_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2022_Q3_sie_processed.txt
+SIE,SIE,2022,4,2022_Q4_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2022_Q4_sie_processed.txt
+SIE,SIE,2023,1,2023_Q1_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2023_Q1_sie_processed.txt
+SIE,SIE,2023,2,2023_Q2_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2023_Q2_sie_processed.txt
+SIE,SIE,2023,3,2023_Q3_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2023_Q3_sie_processed.txt
+SIE,SIE,2023,4,2023_Q4_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2023_Q4_sie_processed.txt
+SIE,SIE,2024,1,2024_Q1_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2024_Q1_sie_processed.txt
+SIE,SIE,2024,2,2024_Q2_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2024_Q2_sie_processed.txt
+SIE,SIE,2024,3,2024_Q3_sie_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SIE/2024_Q3_sie_processed.txt
+SalesForce,CRM,2018,4,2018_Q4_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2018_Q4_crm_processed.txt
+SalesForce,CRM,2019,1,2019_Q1_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2019_Q1_crm_processed.txt
+SalesForce,CRM,2019,2,2019_Q2_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2019_Q2_crm_processed.txt
+SalesForce,CRM,2019,3,2019_Q3_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2019_Q3_crm_processed.txt
+SalesForce,CRM,2019,4,2019_Q4_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2019_Q4_crm_processed.txt
+SalesForce,CRM,2020,1,2020_Q1_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2020_Q1_crm_processed.txt
+SalesForce,CRM,2020,2,2020_Q2_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2020_Q2_crm_processed.txt
+SalesForce,CRM,2020,3,2020_Q3_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2020_Q3_crm_processed.txt
+SalesForce,CRM,2020,4,2020_Q4_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2020_Q4_crm_processed.txt
+SalesForce,CRM,2021,1,2021_Q1_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2021_Q1_crm_processed.txt
+SalesForce,CRM,2021,2,2021_Q2_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2021_Q2_crm_processed.txt
+SalesForce,CRM,2021,3,2021_Q3_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2021_Q3_crm_processed.txt
+SalesForce,CRM,2021,4,2021_Q4_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2021_Q4_crm_processed.txt
+SalesForce,CRM,2022,1,2022_Q1_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2022_Q1_crm_processed.txt
+SalesForce,CRM,2022,2,2022_Q2_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2022_Q2_crm_processed.txt
+SalesForce,CRM,2022,3,2022_Q3_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2022_Q3_crm_processed.txt
+SalesForce,CRM,2022,4,2022_Q4_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2022_Q4_crm_processed.txt
+SalesForce,CRM,2023,1,2023_Q1_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2023_Q1_crm_processed.txt
+SalesForce,CRM,2023,2,2023_Q2_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2023_Q2_crm_processed.txt
+SalesForce,CRM,2023,3,2023_Q3_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2023_Q3_crm_processed.txt
+SalesForce,CRM,2023,4,2023_Q4_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2023_Q4_crm_processed.txt
+SalesForce,CRM,2024,1,2024_Q1_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2024_Q1_crm_processed.txt
+SalesForce,CRM,2024,2,2024_Q2_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2024_Q2_crm_processed.txt
+SalesForce,CRM,2024,3,2024_Q3_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2024_Q3_crm_processed.txt
+SalesForce,CRM,2024,4,2024_Q4_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2024_Q4_crm_processed.txt
+SalesForce,CRM,2025,1,2025_Q1_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2025_Q1_crm_processed.txt
+SalesForce,CRM,2025,2,2025_Q2_crm_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/SalesForce/2025_Q2_crm_processed.txt
+Schneider Electric,SU,2018,1,2018_Q1_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2018_Q1_su_processed.txt
+Schneider Electric,SU,2018,3,2018_Q3_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2018_Q3_su_processed.txt
+Schneider Electric,SU,2019,1,2019_Q1_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2019_Q1_su_processed.txt
+Schneider Electric,SU,2019,3,2019_Q3_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2019_Q3_su_processed.txt
+Schneider Electric,SU,2020,1,2020_Q1_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2020_Q1_su_processed.txt
+Schneider Electric,SU,2020,3,2020_Q3_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2020_Q3_su_processed.txt
+Schneider Electric,SU,2021,1,2021_Q1_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2021_Q1_su_processed.txt
+Schneider Electric,SU,2021,3,2021_Q3_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2021_Q3_su_processed.txt
+Schneider Electric,SU,2022,2,2022_Q2_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2022_Q2_su_processed.txt
+Schneider Electric,SU,2022,4,2022_Q4_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2022_Q4_su_processed.txt
+Schneider Electric,SU,2023,2,2023_Q2_su_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Schneider Electric/2023_Q2_su_processed.txt
+Shell,SHEL,2022,2,2022_Q2_shel_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Shell/2022_Q2_shel_processed.txt
+Shell,SHEL,2022,4,2022_Q4_shel_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Shell/2022_Q4_shel_processed.txt
+Shell,SHEL,2023,1,2023_Q1_shel_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Shell/2023_Q1_shel_processed.txt
+Shell,SHEL,2023,3,2023_Q3_shel_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Shell/2023_Q3_shel_processed.txt
+Shell,SHEL,2023,4,2023_Q4_shel_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Shell/2023_Q4_shel_processed.txt
+Shell,SHEL,2024,1,2024_Q1_shel_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Shell/2024_Q1_shel_processed.txt
+Shell,SHEL,2024,2,2024_Q2_shel_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Shell/2024_Q2_shel_processed.txt
+UnitedHealth,UNH,2017,4,2017_Q4_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2017_Q4_unh_processed.txt
+UnitedHealth,UNH,2018,1,2018_Q1_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2018_Q1_unh_processed.txt
+UnitedHealth,UNH,2018,2,2018_Q2_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2018_Q2_unh_processed.txt
+UnitedHealth,UNH,2018,3,2018_Q3_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2018_Q3_unh_processed.txt
+UnitedHealth,UNH,2018,4,2018_Q4_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2018_Q4_unh_processed.txt
+UnitedHealth,UNH,2019,1,2019_Q1_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2019_Q1_unh_processed.txt
+UnitedHealth,UNH,2019,2,2019_Q2_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2019_Q2_unh_processed.txt
+UnitedHealth,UNH,2019,3,2019_Q3_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2019_Q3_unh_processed.txt
+UnitedHealth,UNH,2019,4,2019_Q4_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2019_Q4_unh_processed.txt
+UnitedHealth,UNH,2020,1,2020_Q1_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2020_Q1_unh_processed.txt
+UnitedHealth,UNH,2020,2,2020_Q2_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2020_Q2_unh_processed.txt
+UnitedHealth,UNH,2020,3,2020_Q3_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2020_Q3_unh_processed.txt
+UnitedHealth,UNH,2020,4,2020_Q4_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2020_Q4_unh_processed.txt
+UnitedHealth,UNH,2021,1,2021_Q1_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2021_Q1_unh_processed.txt
+UnitedHealth,UNH,2021,2,2021_Q2_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2021_Q2_unh_processed.txt
+UnitedHealth,UNH,2021,3,2021_Q3_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2021_Q3_unh_processed.txt
+UnitedHealth,UNH,2021,4,2021_Q4_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2021_Q4_unh_processed.txt
+UnitedHealth,UNH,2022,1,2022_Q1_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2022_Q1_unh_processed.txt
+UnitedHealth,UNH,2022,2,2022_Q2_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2022_Q2_unh_processed.txt
+UnitedHealth,UNH,2022,3,2022_Q3_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2022_Q3_unh_processed.txt
+UnitedHealth,UNH,2022,4,2022_Q4_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2022_Q4_unh_processed.txt
+UnitedHealth,UNH,2023,1,2023_Q1_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2023_Q1_unh_processed.txt
+UnitedHealth,UNH,2023,2,2023_Q2_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2023_Q2_unh_processed.txt
+UnitedHealth,UNH,2023,3,2023_Q3_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2023_Q3_unh_processed.txt
+UnitedHealth,UNH,2023,4,2023_Q4_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2023_Q4_unh_processed.txt
+UnitedHealth,UNH,2024,1,2024_Q1_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2024_Q1_unh_processed.txt
+UnitedHealth,UNH,2024,2,2024_Q2_unh_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/UnitedHealth/2024_Q2_unh_processed.txt
+Walmart,WMT,2018,1,2018_Q1_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2018_Q1_wmt_processed.txt
+Walmart,WMT,2018,4,2018_Q4_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2018_Q4_wmt_processed.txt
+Walmart,WMT,2019,3,2019_Q3_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2019_Q3_wmt_processed.txt
+Walmart,WMT,2019,4,2019_Q4_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2019_Q4_wmt_processed.txt
+Walmart,WMT,2020,4,2020_Q4_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2020_Q4_wmt_processed.txt
+Walmart,WMT,2021,1,2021_Q1_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2021_Q1_wmt_processed.txt
+Walmart,WMT,2021,2,2021_Q2_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2021_Q2_wmt_processed.txt
+Walmart,WMT,2021,3,2021_Q3_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2021_Q3_wmt_processed.txt
+Walmart,WMT,2021,4,2021_Q4_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2021_Q4_wmt_processed.txt
+Walmart,WMT,2022,1,2022_Q1_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2022_Q1_wmt_processed.txt
+Walmart,WMT,2022,3,2022_Q3_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2022_Q3_wmt_processed.txt
+Walmart,WMT,2022,4,2022_Q4_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2022_Q4_wmt_processed.txt
+Walmart,WMT,2023,1,2023_Q1_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2023_Q1_wmt_processed.txt
+Walmart,WMT,2023,2,2023_Q2_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2023_Q2_wmt_processed.txt
+Walmart,WMT,2023,3,2023_Q3_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2023_Q3_wmt_processed.txt
+Walmart,WMT,2023,4,2023_Q4_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2023_Q4_wmt_processed.txt
+Walmart,WMT,2024,1,2024_Q1_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2024_Q1_wmt_processed.txt
+Walmart,WMT,2024,2,2024_Q2_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2024_Q2_wmt_processed.txt
+Walmart,WMT,2024,3,2024_Q3_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2024_Q3_wmt_processed.txt
+Walmart,WMT,2024,4,2024_Q4_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2024_Q4_wmt_processed.txt
+Walmart,WMT,2025,1,2025_Q1_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2025_Q1_wmt_processed.txt
+Walmart,WMT,2025,2,2025_Q2_wmt_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walmart/2025_Q2_wmt_processed.txt
+Walt Disney,DIS,2018,1,2018_Q1_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2018_Q1_dis_processed.txt
+Walt Disney,DIS,2018,2,2018_Q2_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2018_Q2_dis_processed.txt
+Walt Disney,DIS,2018,3,2018_Q3_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2018_Q3_dis_processed.txt
+Walt Disney,DIS,2018,4,2018_Q4_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2018_Q4_dis_processed.txt
+Walt Disney,DIS,2019,1,2019_Q1_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2019_Q1_dis_processed.txt
+Walt Disney,DIS,2019,2,2019_Q2_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2019_Q2_dis_processed.txt
+Walt Disney,DIS,2019,3,2019_Q3_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2019_Q3_dis_processed.txt
+Walt Disney,DIS,2019,4,2019_Q4_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2019_Q4_dis_processed.txt
+Walt Disney,DIS,2020,1,2020_Q1_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2020_Q1_dis_processed.txt
+Walt Disney,DIS,2020,2,2020_Q2_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2020_Q2_dis_processed.txt
+Walt Disney,DIS,2020,3,2020_Q3_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2020_Q3_dis_processed.txt
+Walt Disney,DIS,2020,4,2020_Q4_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2020_Q4_dis_processed.txt
+Walt Disney,DIS,2021,1,2021_Q1_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2021_Q1_dis_processed.txt
+Walt Disney,DIS,2021,2,2021_Q2_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2021_Q2_dis_processed.txt
+Walt Disney,DIS,2021,3,2021_Q3_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2021_Q3_dis_processed.txt
+Walt Disney,DIS,2022,1,2022_Q1_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2022_Q1_dis_processed.txt
+Walt Disney,DIS,2022,2,2022_Q2_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2022_Q2_dis_processed.txt
+Walt Disney,DIS,2022,3,2022_Q3_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2022_Q3_dis_processed.txt
+Walt Disney,DIS,2022,4,2022_Q4_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2022_Q4_dis_processed.txt
+Walt Disney,DIS,2023,1,2023_Q1_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2023_Q1_dis_processed.txt
+Walt Disney,DIS,2023,2,2023_Q2_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2023_Q2_dis_processed.txt
+Walt Disney,DIS,2023,3,2023_Q3_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2023_Q3_dis_processed.txt
+Walt Disney,DIS,2023,4,2023_Q4_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2023_Q4_dis_processed.txt
+Walt Disney,DIS,2024,1,2024_Q1_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2024_Q1_dis_processed.txt
+Walt Disney,DIS,2024,2,2024_Q2_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2024_Q2_dis_processed.txt
+Walt Disney,DIS,2024,3,2024_Q3_dis_processed.txt,/scratch/sd5957/finverify_2/data/raw/earnings_calls/cleaned_ECTs_dataset/Walt Disney/2024_Q3_dis_processed.txt
